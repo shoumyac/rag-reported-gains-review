@@ -1,0 +1,23 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Compile Python files
+        run: python -m compileall -q search tools
+      - name: Check that every citation resolves
+        run: python tools/check_citations.py references.bib
+      - name: Scan for secrets
+        run: |
+          if grep -rIlE "sk-ant-[A-Za-z0-9_-]{10,}|hf_[A-Za-z0-9]{20,}|OPENALEX_API_KEY=[A-Za-z0-9]{8,}|ANTHROPIC_API_KEY=[A-Za-z0-9_-]{8,}|OPENROUTER_API_KEY=[A-Za-z0-9_-]{8,}" . --exclude-dir=.git --exclude=ci.yml; then
+            echo "Possible secret found"; exit 1
+          fi

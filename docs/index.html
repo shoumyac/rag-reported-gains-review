@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Do reported gains in RAG survive scrutiny?</title>
+<meta name="description" content="A pre-registered systematic review, meta-analysis and evaluation-validity audit of retrieval-augmented generation research.">
+<style>
+  :root { --bg:#fbfaf7; --fg:#1d2330; --muted:#566074; --accent:#1f5f8b; --card:#ffffff; --line:#dcd8cf; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#14181f; --fg:#e8eaee; --muted:#9aa4b5; --accent:#7ab6e0; --card:#1b212b; --line:#2e3644; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:17px/1.6 Georgia, "Times New Roman", serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 48px 16px 72px; }
+  h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 8px; }
+  h2 { font-size: 1.15rem; margin: 40px 0 8px; font-family: system-ui, sans-serif; letter-spacing: .02em; }
+  p { margin: 0 0 14px; }
+  .sub { color: var(--muted); }
+  a { color: var(--accent); }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 16px 18px; margin: 14px 0; }
+  .status { border-left: 4px solid var(--accent); }
+  ol, ul { padding-left: 22px; }
+  li { margin-bottom: 8px; }
+  table { width: 100%; border-collapse: collapse; font: 15px/1.5 system-ui, sans-serif; }
+  td, th { text-align: left; padding: 8px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  footer { margin-top: 48px; font: 14px system-ui, sans-serif; color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Do reported gains in retrieval-augmented generation survive scrutiny?</h1>
+  <p class="sub">A pre-registered systematic review, meta-analysis and evaluation-validity audit. Anmita Das and Shoumya Chowdhury.</p>
+
+  <div class="card status">
+    <strong>Status:</strong> protocol registered on 1 November 2026. The search has not been run and there are no results yet.
+    Registration: <a href="https://doi.org/10.17605/OSF.IO/XGPCZ">doi.org/10.17605/OSF.IO/XGPCZ</a>.
+  </div>
+
+  <h2>The question</h2>
+  <p>Many papers on retrieval-augmented generation (RAG) report that a new method beats a baseline. We pool those improvements within each paper, ask which design and evaluation choices explain how much they vary, check how completely studies report what is needed to reproduce them, and re-run a pre-specified sample of methods to see whether their conclusions change under different metrics and LLM judges.</p>
+  <p>We never rank methods across papers, because their retrievers, generators and corpora differ.</p>
+
+  <h2>Research questions</h2>
+  <ol>
+    <li>What is the pooled reported improvement over each study's own baseline, and how much does it vary?</li>
+    <li>How much of that variation do design and evaluation choices explain?</li>
+    <li>How many studies report what is needed to reproduce and compare their results, and do less transparent or smaller studies report larger gains?</li>
+    <li>What share of studies validated their automated metrics or LLM judges against human judgement?</li>
+    <li>For a sample of re-run methods, do reported gains replicate, and do conclusions flip under other metrics and judges?</li>
+  </ol>
+
+  <h2>How we keep it honest</h2>
+  <ul>
+    <li>The protocol is frozen on OSF; every change is logged.</li>
+    <li>Citations are resolved against Crossref or DataCite by an automatic check.</li>
+    <li>Every number in the paper is produced by script from the data.</li>
+    <li>Every extracted value carries its page, table and quoted text.</li>
+    <li>Papers by the authors are flagged, checked by an independent person, and tested in a sensitivity analysis.</li>
+  </ul>
+
+  <h2>Plan</h2>
+  <table>
+    <tr><th>When</th><th>What</th></tr>
+    <tr><td>1 Nov 2026</td><td>Protocol registered</td></tr>
+    <tr><td>by 30 Nov 2026</td><td>Search frozen</td></tr>
+    <tr><td>Dec 2026 to Jan 2027</td><td>Screening and pilot extraction</td></tr>
+    <tr><td>Jan to Feb 2027</td><td>Extraction, synthesis, claim stress test</td></tr>
+    <tr><td>31 Mar 2027</td><td>Planned manuscript submission</td></tr>
+  </table>
+
+  <h2>Links</h2>
+  <ul>
+    <li><a href="https://github.com/shoumyac/rag-reported-gains-review">Code and data on GitHub</a></li>
+    <li><a href="https://osf.io/xgpcz/">OSF registration</a></li>
+  </ul>
+
+  <footer>Code: MIT. Data and text: CC BY 4.0.</footer>
+</main>
+</body>
+</html>

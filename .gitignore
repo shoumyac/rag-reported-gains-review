@@ -1,0 +1,38 @@
+# Secrets, never commit
+.env
+.env.*
+!.env.example
+secrets/
+*.key
+*.pem
+
+# Raw harvested data and large outputs (archived on Zenodo instead)
+data/raw/
+data/*.jsonl
+data/*.jsonl.gz
+search/runs/*.json.gz
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# LaTeX build files
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.bbl
+paper/*.blg
+paper/*.synctex.gz

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the OSF registration of the protocol."
+title: "Do reported gains in retrieval-augmented generation survive scrutiny? A systematic review, meta-analysis and evaluation-validity audit"
+type: dataset
+authors:
+  - family-names: "Das"
+    given-names: "Anmita"
+  - family-names: "Chowdhury"
+    given-names: "Shoumya"
+identifiers:
+  - type: doi
+    value: "10.17605/OSF.IO/XGPCZ"
+    description: "OSF registration of the protocol"
+repository-code: "https://github.com/shoumyac/rag-reported-gains-review"
+license: MIT
+keywords:
+  - retrieval-augmented generation
+  - systematic review
+  - meta-analysis
+  - reproducibility
+  - evaluation
+  - large language models
