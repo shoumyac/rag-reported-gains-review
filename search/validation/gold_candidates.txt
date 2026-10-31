@@ -1,0 +1,38 @@
+Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+REALM: Retrieval-Augmented Language Model Pre-Training
+Atlas: Few-shot Learning with Retrieval Augmented Language Models
+Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection
+Corrective Retrieval Augmented Generation
+Active Retrieval Augmented Generation
+REPLUG: Retrieval-Augmented Black-Box Language Models
+In-Context Retrieval-Augmented Language Models
+Improving language models by retrieving from trillions of tokens
+Retrieval-Augmented Generation for Large Language Models: A Survey
+Benchmarking Large Language Models in Retrieval-Augmented Generation
+RAGAS: Automated Evaluation of Retrieval Augmented Generation
+ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems
+FlashRAG: A Modular Toolkit for Efficient Retrieval-Augmented Generation Research
+BERGEN: A Benchmarking Library for Retrieval-Augmented Generation
+Lost in the Middle: How Language Models Use Long Contexts
+Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity
+RA-DIT: Retrieval-Augmented Dual Instruction Tuning
+RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation
+Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models
+Retrieval-Augmented Generation for AI-Generated Content: A Survey
+Seven Failure Points When Engineering a Retrieval Augmented Generation System
+From Local to Global: A Graph RAG Approach to Query-Focused Summarization
+HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models
+CRAG - Comprehensive RAG Benchmark
+Making Retrieval-Augmented Language Models Robust to Irrelevant Context
+Retrieval meets Long Context Large Language Models
+Evaluation of Retrieval-Augmented Generation: A Survey
+Searching for Best Practices in Retrieval-Augmented Generation
+Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs
+Query Rewriting for Retrieval-Augmented Large Language Models
+When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories
+RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs
+Benchmarking Retrieval-Augmented Generation for Medicine
+InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining
+Dense X Retrieval: What Retrieval Granularity Should We Use?
+Self-Knowledge Guided Retrieval Augmentation for Large Language Models
+Improving Retrieval for RAG based Question Answering Models on Financial Documents
