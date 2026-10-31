@@ -4,7 +4,7 @@ Every departure from the registered protocol (https://doi.org/10.17605/OSF.IO/XG
 
 | Date | Stage | What changed | Reason | Decided by |
 |---|---|---|---|---|
-| (none yet) | | | | |
+| 1 Nov 2026 | Search (before any search was run) | Added two clauses to the OpenAlex query: "retrieval augmentation" and ("retrieval-augmented" AND (language OR LLM OR LLMs OR generation OR generative)). The registered query is still run and reported. | Recall test on 38 known RAG papers (`search/validation/gold_list.csv`): registered query found 30 (79%), extended query found 34 (89%). Cost: about 2,400 more records (27,279 vs 24,876). | Shoumya Chowdhury; Anmita Das to confirm |
 
 ## Notes on the registered text
 

@@ -25,12 +25,21 @@ import urllib.request
 
 API = "https://api.openalex.org/works"
 
-QUERY = (
+# The query exactly as registered on OSF.
+QUERY_REGISTERED = (
     '("retrieval-augmented generation" OR "retrieval augmented generation" '
     'OR "retrieval-augmented language model" OR "retrieval-augmented language models" '
     'OR "retrieval-augmented LLM" OR "retrieval-augmented large language model" '
     'OR ("RAG" AND (retrieval OR retriever OR "language model" OR LLM)))'
 )
+# Extended query, logged as deviation D1 in protocol/deviations_log.md (1 Nov 2026).
+# It adds two clauses to the registered query and drops nothing.
+QUERY_EXTENDED = (
+    QUERY_REGISTERED[:-1]
+    + ' OR "retrieval augmentation"'
+    + ' OR ("retrieval-augmented" AND (language OR LLM OR LLMs OR generation OR generative)))'
+)
+QUERY = QUERY_EXTENDED
 FROM_DATE = "2020-01-01"
 TO_DATE = "2026-11-30"
 LANGUAGE = "en"
@@ -126,6 +135,7 @@ def cmd_harvest(key, out_dir, max_pages):
         time.sleep(0.2)
     log = {
         "run_id": run_id,
+        "query_variant": "registered" if QUERY == QUERY_REGISTERED else "extended",
         "filter": build_filter(True),
         "hit_count_reported": total,
         "pages_saved": len(manifest),
@@ -143,11 +153,15 @@ def main():
     load_dotenv()
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest="cmd", required=True)
+    parser.add_argument("--query", choices=["registered", "extended"], default="extended",
+                        help="registered = exact OSF query; extended = deviation D1 (default)")
     sub.add_parser("count")
     harvest = sub.add_parser("harvest")
     harvest.add_argument("--out", default="data/raw/openalex")
     harvest.add_argument("--max-pages", type=int, default=0)
     args = parser.parse_args()
+    global QUERY
+    QUERY = QUERY_REGISTERED if args.query == "registered" else QUERY_EXTENDED
     key = os.environ.get("OPENALEX_API_KEY")
     if not key:
         sys.exit("OPENALEX_API_KEY is not set")
