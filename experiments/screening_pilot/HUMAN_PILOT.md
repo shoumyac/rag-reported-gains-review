@@ -1,6 +1,6 @@
 # Human calibration pilot: results (1 November 2026)
 
-Four screeners (initials S, AD, R, SC) screened the 300-record calibration sample from title and abstract. AD and SC screened all 300 rows; S and R screened rows 1 to 50 only. Per-screener decision files are kept private until the annotators have agreed to their decisions being shared. Agreement statistics only are reported here.
+Four screeners (initials S, AD, R, SC; AD and SC are the two authors, S and R the two independent annotators) screened the 300-record calibration sample from title and abstract. AD and SC screened all 300 rows; S and R screened rows 1 to 50 only. Per-screener decision files are kept private until the annotators have agreed to their decisions being shared. Agreement statistics only are reported here.
 
 ## Agreement, rows 1 to 50 (all four screeners)
 
@@ -21,7 +21,7 @@ Fleiss kappa, four raters: 0.65 (three classes), 0.80 (two classes). All four id
 
 Kappa 0.59 (three classes) and 0.62 (two classes); exact agreement 75% and 85%. They disagreed on EXCLUDE versus keep in 45 of 300 records (AD excluded and SC kept in 25; SC excluded and AD kept in 20). Where both excluded (58 records), the reason code matched in 53.
 
-Registered target: kappa of at least 0.70 between the authors on 300 records. Not reached on the 300 (S screened 50 of 300), so the registered next step applies: clarify the criteria in writing, then screen a new random sample of 100.
+AD and SC are the two authors, so this is the registered author-versus-author measurement. Registered target: kappa of at least 0.70 on the 300 records. Not reached, so the registered next step applies: clarify the criteria in writing, then screen a new random sample of 100.
 
 ## Where the disagreements come from (45 exclude-versus-keep records)
 
