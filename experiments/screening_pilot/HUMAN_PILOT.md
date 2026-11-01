@@ -33,3 +33,18 @@ AD and SC are the two authors, so this is the registered author-versus-author me
 ## Models against humans (EXCLUDE versus keep, kappa)
 
 Between 0.43 and 0.63 for all five models against each human, similar to the lower end of human-human agreement. Models stay ranking aids only.
+
+## Round 3 (100 new records, rules version 1.2, 1 November 2026)
+
+All four screeners (S = Shoumya, AD = Anmita, R = Rasel, SC = Shifa) screened the same 100 records independently.
+
+| Pair | Cohen's kappa (3 classes) | Kappa (EXCLUDE vs keep) | Agreement |
+|---|---|---|---|
+| S and AD (the authors) | 0.83 | 0.81 | 89% |
+| S and R | 0.91 | 0.91 | 94% |
+| S and SC | 0.91 | 0.91 | 94% |
+| R and AD | 0.89 | 0.86 | 93% |
+| R and SC | 0.84 | 0.86 | 90% |
+| AD and SC | 0.83 | 0.81 | 89% |
+
+All four agreed on 85 of 100 records. The registered target (kappa at least 0.70 between the authors) is met. Decisions per screener are in `round3_decisions_4screeners.csv`. Progress over rounds for the authors: 0.59 (round 1), 0.63 (round 2), 0.83 (round 3). Note that the rules in version 1.2 were written after round 2, so round 3 is a fresh sample, not the one the rules were derived from.
