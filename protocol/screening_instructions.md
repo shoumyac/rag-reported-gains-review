@@ -2,7 +2,7 @@
 
 Project: Do reported gains in retrieval-augmented generation (RAG) survive scrutiny? A systematic review, meta-analysis and evaluation-validity audit.
 Authors: Anmita Das, Shoumya Chowdhury.
-Version 1.0, 1 November 2026. Part of the OSF registration. Any later change is recorded in the deviations log with a date.
+Version 1.1, 1 November 2026 (version 1.0 is in the OSF registration; the changes are section 3A and are recorded as deviation D4 in the deviations log). Any later change is recorded in the deviations log with a date.
 
 ## 1. Who screens
 
@@ -23,6 +23,17 @@ Decide: INCLUDE (go to full text), EXCLUDE, or MAYBE.
 - If unsure, choose MAYBE. MAYBE goes to full text.
 - Do not exclude a paper only because the abstract does not mention a baseline. Baselines are checked at full text.
 - Do not use what you know about the authors or the venue.
+
+## 3A. Stage 1 clarifications (added in version 1.1, deviation D4)
+
+Agreed by both authors on 1 November 2026 after the 300-record calibration pilot (kappa 0.62 between the authors, below the 0.70 target). They apply to title and abstract screening only. Codes and the full-text rules in section 4 are unchanged.
+
+1. **Applications, systems and designs.** EXCLUDE (E2) only if the abstract describes a design, architecture, proposal, plan, vision, overview, survey or whitepaper, lists projected targets instead of results, or plans a future evaluation. Also EXCLUDE (E2) for organisational or qualitative case studies of RAG adoption that report no experiments on a RAG system. If the abstract says the system was built, implemented or deployed but does not say whether it was tested, choose MAYBE. If it reports tests, metrics, user-study results or comparisons, INCLUDE.
+2. **RAG as one part of a larger system.** INCLUDE if the abstract reports experiments on a system that uses retrieval-augmented generation, even as one component of the evaluated method. If the abstract mixes qualitative reflection with partial experiments, or a platform or demo enables RAG comparison without clear quantitative results, choose MAYBE.
+3. **When RAG does not count (E1).** EXCLUDE (E1) if: RAG appears only as background or future work; RAG appears only as a baseline that the paper's own non-RAG method outperforms; the word means something else; retrieval feeds a generator that is not a language model; retrieval is used only to build a knowledge base or dataset for later RAG and the experiments do not evaluate RAG at query time; or "GraphRAG" or similar wording refers to graph learning on non-language data with no language model generating from retrieved documents.
+4. **Surveys.** EXCLUDE (E2) overviews and surveys, including those titled "architecture, techniques and evaluations".
+5. **Records with no abstract.** First try to recover the abstract (for example from Crossref or arXiv). If it cannot be recovered: a title that names RAG or retrieval-augmented generation gives MAYBE; a title that names a language-model system, agent, chatbot or assistant but not RAG or retrieval gives EXCLUDE (E1); a title about unrelated topics gives EXCLUDE (E1).
+6. **Multimodal (E9).** EXCLUDE (E9) when retrieval and generation work on images, audio, video or other non-text data and the abstract suggests no text-only RAG experiment. MAYBE when text-only and multimodal parts are both present or the abstract does not say. If the retrieval-augmented language-model part works on text and the abstract reports its results, INCLUDE even if other modules process images or sensor data.
 
 ## 4. Stage 2: full text
 
