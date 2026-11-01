@@ -1,10 +1,12 @@
 """Step 4. Build comparisons by script from the merged rows and the row labels (no model involved).
 Rule (D2/D3): for the main proposed row of each table and every task-quality column, one comparison against the no-retrieval row and one against the vanilla-RAG row.
 Comparator row: the one with the same generator as the proposed row if there is one, otherwise the nearest row (by row position) with that role.
-Effect = proposed minus comparator in percentage points (scores on a 0 to 1 scale are multiplied by 100). Test-set size is not in the table and is added at human verification.
+Effect = proposed minus comparator in percentage points (improvement_pp flips the sign for metrics where lower is better, such as perplexity; retrieval-only metrics such as recall@k are flagged and are out of scope for the primary outcome) (scores on a 0 to 1 scale are multiplied by 100). Test-set size is not in the table and is added at human verification.
 Output: data/comparisons.csv"""
-import csv, json, collections
+import csv, json, collections, re
 from common import *
+LOWER_BETTER = re.compile(r"ppl|perplex|loss|bpb|bits|error|wer\b|latency|cost|time", re.I)
+RETRIEVAL_ONLY = re.compile(r"recall|r@\d|mrr|ndcg|precision@|hit@|map\b", re.I)
 def pick(cands, main, key):
     if not cands: return None, None
     same = [c for c in cands if c["generator"] and c["generator"] != "unknown" and c["generator"] == main["generator"]]
@@ -43,7 +45,7 @@ def main():
                 cs = num(comp["values"][c])
                 flags = [f for f in (m["needs"], comp["needs"]) if f]
                 out.append(dict(paper=pid, table_no=tno, benchmark_metric=cols[c], method=m["label"], method_score=m["values"][c], comparator_type=ctype, comparator=comp["label"], comparator_score=comp["values"][c],
-                                effect_pp=round((ms - cs) * scale, 2), scale_x100=scale == 100.0, comparator_rule=rule, method_quote=m["quote"], comparator_quote=comp["quote"], row_flags="; ".join(flags)))
+                                effect_pp=round((ms - cs) * scale, 2), lower_is_better=bool(LOWER_BETTER.search(cols[c])), improvement_pp=round((ms - cs) * scale * (-1 if LOWER_BETTER.search(cols[c]) else 1), 2), retrieval_metric_flag=bool(RETRIEVAL_ONLY.search(cols[c])), scale_x100=scale == 100.0, comparator_rule=rule, method_quote=m["quote"], comparator_quote=comp["quote"], row_flags="; ".join(flags)))
                 summ["comparisons"] += 1
     keys = list(out[0].keys())
     with open(f"{DATA}/comparisons.csv", "w", newline="", encoding="utf-8-sig") as f:
