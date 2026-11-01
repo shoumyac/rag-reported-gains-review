@@ -1,0 +1,41 @@
+﻿comparison_id,paper,comparator_rule,row_flags,improvement_pp
+C154,2310.07713,same_generator,,4.7
+C011,2005.11401,same_generator,a value is not in its quote,8.5
+C101,2310.03025,same_generator,,9.08
+C123,2310.04408,same_generator,,6.51
+C228,2401.15884,nearest_row,,4.4
+C250,2403.14403,same_generator,,2.63
+C135,2310.05002,same_generator,,-1.71
+C003,2002.08909,nearest_row,,25.5
+C221,2312.06648,same_generator,,-0.9
+C026,2302.00083,same_generator,,1.1
+C169,2310.11511,same_generator,,45.5
+C180,2311.09210,same_generator,,1.53
+C244,2402.13178,same_generator,seen by one model only; seen by one model only,30.2
+C157,2310.07713,nearest_row,seen by one model only; a value is not in its quote,32.1
+C029,2302.00083,same_generator,,17.7
+C231,2401.15884,nearest_row,,4.0
+C175,2310.11511,same_generator,,20.4
+C255,2403.14403,same_generator,,23.48
+C061,2305.06983,nearest_row,,1.2
+C020,2301.12652,same_generator,,2.8
+C015,2208.03299,nearest_row,seen by one model only,38.4
+C077,2310.01352,same_generator,,3.6
+C116,2310.04408,same_generator,,4.17
+C001,2002.08909,nearest_row,,4.7
+C002,2002.08909,nearest_row,,2.8
+C085,2310.01352,same_generator,,1.9
+C064,2305.14283,nearest_row,,3.91
+C074,2305.14283,nearest_row,,-1.8
+C087,2310.01558,same_generator,seen by one model only; seen by one model only,8.7
+C006,2005.11401,nearest_row,,0.8
+C194,2311.09210,same_generator,,1.81
+C292,2407.02485,nearest_row,,5.8
+C032,2305.06983,nearest_row,,3.0
+C104,2310.03025,same_generator,,2.7
+C235,2402.13178,same_generator,,-2.2
+C217,2312.06648,same_generator,,1.1
+C023,2301.12652,same_generator,,3.1
+C298,2407.02485,nearest_row,seen by one model only; seen by one model only; quote not found in paper,11.03
+C145,2310.05002,same_generator,,-0.59
+C016,2208.03299,nearest_row,seen by one model only,53.3

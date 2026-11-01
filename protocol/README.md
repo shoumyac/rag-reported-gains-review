@@ -10,6 +10,7 @@ Files here:
 - `screening_round2_instructions.md`: instructions for the 100-record round 2 screening
 - `screening_round2_discussion_instructions.md`: instructions for the authors' round 2 disagreement discussion
 - `screening_round3_instructions.md`: instructions for the 100-record round 3 screening (rules v1.2)
+- `extraction_checker_guide.md`: guide for the human check of the extraction pipeline (sample of 40 comparisons and the main-table confirmation)
 - `deviations_log.md`: every departure from the registered protocol, with date and reason
 
 Do not edit the two instruction files in place after screening or extraction starts. If they must change, record the change in the deviations log and keep the old version in git history.
