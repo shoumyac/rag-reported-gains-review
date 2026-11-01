@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7213401081", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Tool for RAG diagnosis/repair with experiments on BM25, dense, hybrid RAG benchmark analyses.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Tool for RAG diagnosis/repair with experiments on BM25, dense, hybrid RAG benchmark analyses."}, "cost_usd": 0.002534}

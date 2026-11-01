@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4414011024", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a RAG method for NLQ2SPARQL with ontology subgraph retrieval.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a RAG method for NLQ2SPARQL with ontology subgraph retrieval."}, "cost_usd": 6.861399999999999e-05}

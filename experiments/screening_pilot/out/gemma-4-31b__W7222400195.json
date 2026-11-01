@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7222400195", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG method (HSA v3.0) with empirical benchmarks.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG method (HSA v3.0) with empirical benchmarks."}, "cost_usd": 0.00022940000000000005}

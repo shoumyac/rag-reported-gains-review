@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4402670731", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates LLMs in table information seeking with retrieval-augmented systems context.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates LLMs in table information seeking with retrieval-augmented systems context."}, "cost_usd": 5.6784e-05}

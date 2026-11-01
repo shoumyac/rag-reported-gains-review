@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4416502149", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Paper proposes a conceptual design without running experiments.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Paper proposes a conceptual design without running experiments."}, "cost_usd": 0.00013340000000000002}

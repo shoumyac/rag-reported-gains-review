@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7134895601", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system for ESGF queries.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system for ESGF queries."}, "cost_usd": 5.7512e-05}

@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7166739032", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a new RAG method with experiments\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a new RAG method with experiments"}, "cost_usd": 7.579e-05}

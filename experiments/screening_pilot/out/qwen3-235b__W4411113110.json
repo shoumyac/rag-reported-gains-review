@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W4411113110", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system for stance detection\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system for stance detection"}, "cost_usd": 6.382000000000001e-05}

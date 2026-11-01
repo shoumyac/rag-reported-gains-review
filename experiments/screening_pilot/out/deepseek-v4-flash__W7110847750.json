@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7110847750", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"Focuses on ANNS deletion evaluation, not RAG systems.\"}", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "Focuses on ANNS deletion evaluation, not RAG systems."}, "cost_usd": 5.3235e-05}

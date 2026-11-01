@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W4414011024", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"Retrieval augments SPARQL, not language generation\"}", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "Retrieval augments SPARQL, not language generation"}, "cost_usd": 7.897999999999999e-05}

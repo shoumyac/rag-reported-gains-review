@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W4416124948", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Proposes CorruptRAG poisoning attack and runs experiments on RAG systems across datasets.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes CorruptRAG poisoning attack and runs experiments on RAG systems across datasets."}, "cost_usd": 0.002272}

@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4413855520", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title does not show whether a retrieval-conditioned generator is used.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title does not show whether a retrieval-conditioned generator is used."}, "cost_usd": 0.00013340000000000002}

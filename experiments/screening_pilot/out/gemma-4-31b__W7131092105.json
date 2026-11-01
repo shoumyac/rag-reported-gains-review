@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7131092105", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Describes development and use of a RAG-augmented chatbot for audit queries.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Describes development and use of a RAG-augmented chatbot for audit queries."}, "cost_usd": 0.0001094}

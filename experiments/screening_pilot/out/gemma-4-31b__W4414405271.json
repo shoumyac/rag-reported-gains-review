@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4414405271", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a hybrid RAG and fine-tuning method with experiments.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a hybrid RAG and fine-tuning method with experiments."}, "cost_usd": 0.0001408}

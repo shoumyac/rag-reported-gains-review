@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7125973755", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E9\", \"reason\": \"Multimodal-only RAG (text + visual UI) not text-only RAG.\"}", "parsed": {"decision": "EXCLUDE", "code": "E9", "reason": "Multimodal-only RAG (text + visual UI) not text-only RAG."}, "cost_usd": 5.824e-05}

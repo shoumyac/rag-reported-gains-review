@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W4398191999", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Abstract mentions testing RAG for self-diagnosis\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Abstract mentions testing RAG for self-diagnosis"}, "cost_usd": 7.523000000000001e-05}

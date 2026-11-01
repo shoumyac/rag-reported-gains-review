@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4415371392", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a small LM RAG method for education QA.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a small LM RAG method for education QA."}, "cost_usd": 7.7987e-05}

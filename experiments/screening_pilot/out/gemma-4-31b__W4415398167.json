@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4415398167", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a framework using RAG to integrate prior knowledge.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a framework using RAG to integrate prior knowledge."}, "cost_usd": 0.00011120000000000002}

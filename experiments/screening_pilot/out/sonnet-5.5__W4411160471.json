@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W4411160471", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Develops a RAG chatbot and presents experimental results on air pollution publications.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Develops a RAG chatbot and presents experimental results on air pollution publications."}, "cost_usd": 0.002028}

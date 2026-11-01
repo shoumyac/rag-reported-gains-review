@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7202262937", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Describes a RAG system with retrieval-augmented policy chatbot\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Describes a RAG system with retrieval-augmented policy chatbot"}, "cost_usd": 8.175999999999999e-05}

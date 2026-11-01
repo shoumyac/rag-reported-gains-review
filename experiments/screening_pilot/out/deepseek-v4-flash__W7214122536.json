@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7214122536", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes RAG with retrieval and generator for legal QA experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes RAG with retrieval and generator for legal QA experiments."}, "cost_usd": 5.2051999999999996e-05}

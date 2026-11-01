@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7166837475", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a curated RAG system for fact-checking.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a curated RAG system for fact-checking."}, "cost_usd": 5.6693e-05}

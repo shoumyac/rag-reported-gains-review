@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7161061757", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Mentions a RAG pipeline and grounding AI assessments in patient context.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Mentions a RAG pipeline and grounding AI assessments in patient context."}, "cost_usd": 0.00016060000000000003}

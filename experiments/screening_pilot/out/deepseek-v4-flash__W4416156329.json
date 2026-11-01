@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4416156329", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG method for construction risk identification.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG method for construction risk identification."}, "cost_usd": 5.278e-05}

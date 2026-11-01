@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W4403816579", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Experiments compare LMs with and without RAG on ENEM, including text-only data.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Experiments compare LMs with and without RAG on ENEM, including text-only data."}, "cost_usd": 0.00217}

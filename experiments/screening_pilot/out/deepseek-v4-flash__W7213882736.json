@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7213882736", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and benchmarks a RAG-relevant client-side vector search system.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and benchmarks a RAG-relevant client-side vector search system."}, "cost_usd": 8.1536e-05}

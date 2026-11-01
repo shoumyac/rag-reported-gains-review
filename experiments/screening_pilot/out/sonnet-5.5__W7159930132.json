@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7159930132", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title suggests artifact recognition routing, unclear whether RAG is involved.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title suggests artifact recognition routing, unclear whether RAG is involved."}, "cost_usd": 0.001612}

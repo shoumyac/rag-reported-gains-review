@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7108655649", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates KG-RAG, a RAG method for reasoning tasks.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates KG-RAG, a RAG method for reasoning tasks."}, "cost_usd": 5.4509e-05}

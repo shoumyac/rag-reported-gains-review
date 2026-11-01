@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7125912194", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Evaluates a RAG-based system with vector retrieval and six LLMs on lung cancer cases.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates a RAG-based system with vector retrieval and six LLMs on lung cancer cases."}, "cost_usd": 0.002526}

@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7150939307", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG framework for video color grading parameters.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG framework for video color grading parameters."}, "cost_usd": 0.00013120000000000002}

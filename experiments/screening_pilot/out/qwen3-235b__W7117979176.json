@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7117979176", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Title indicates literature review with no evidence of experiments\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Title indicates literature review with no evidence of experiments"}, "cost_usd": 4.655e-05}

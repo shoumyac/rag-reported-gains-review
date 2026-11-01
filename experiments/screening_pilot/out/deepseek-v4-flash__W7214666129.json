@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7214666129", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Survey/position paper on automating SLR; no new RAG experiments.\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Survey/position paper on automating SLR; no new RAG experiments."}, "cost_usd": 7.6986e-05}

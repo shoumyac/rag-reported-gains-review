@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7172323796", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Describes experiments with a RAG system using TEI P5 Guidelines\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Describes experiments with a RAG system using TEI P5 Guidelines"}, "cost_usd": 7.798000000000001e-05}

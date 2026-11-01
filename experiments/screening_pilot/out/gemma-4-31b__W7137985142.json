@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7137985142", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a cache-aided RAG method for multi-hop QA.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a cache-aided RAG method for multi-hop QA."}, "cost_usd": 0.0001274}

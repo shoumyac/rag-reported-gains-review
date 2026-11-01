@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4414460565", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E9\", \"reason\": \"Multimodal-only RAG focused on Medical Visual Question Answering (VQA).\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E9", "reason": "Multimodal-only RAG focused on Medical Visual Question Answering (VQA)."}, "cost_usd": 0.0001354}

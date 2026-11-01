@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7159930132", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"Title suggests routing for artifact recognition, not RAG.\"}", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "Title suggests routing for artifact recognition, not RAG."}, "cost_usd": 3.6218000000000005e-05}

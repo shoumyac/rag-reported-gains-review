@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4411160471", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system for air pollution analysis experiments.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system for air pollution analysis experiments."}, "cost_usd": 0.00011220000000000002}

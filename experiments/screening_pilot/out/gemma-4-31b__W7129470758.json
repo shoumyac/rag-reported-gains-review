@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7129470758", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system for personalized learning paths.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system for personalized learning paths."}, "cost_usd": 0.0001264}

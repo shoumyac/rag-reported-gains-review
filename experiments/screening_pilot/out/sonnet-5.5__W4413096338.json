@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W4413096338", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Proposes DHGE-RAG, a graph-based RAG method, evaluated on HotpotQA, TriviaQA, and CRAG.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes DHGE-RAG, a graph-based RAG method, evaluated on HotpotQA, TriviaQA, and CRAG."}, "cost_usd": 0.002638}

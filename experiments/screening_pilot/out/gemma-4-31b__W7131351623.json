@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7131351623", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E9\", \"reason\": \"Focuses on Visual Question Answering (VQA), which is multimodal-only RAG.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E9", "reason": "Focuses on Visual Question Answering (VQA), which is multimodal-only RAG."}, "cost_usd": 8.820000000000002e-05}

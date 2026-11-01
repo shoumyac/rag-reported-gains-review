@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7167902482", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a RAG system for manufacturing agility assessment with experiments implied.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a RAG system for manufacturing agility assessment with experiments implied."}, "cost_usd": 6.4428e-05}

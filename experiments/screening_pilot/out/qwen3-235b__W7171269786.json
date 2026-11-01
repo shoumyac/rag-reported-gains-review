@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7171269786", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Compares RAG strategies with experiments\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Compares RAG strategies with experiments"}, "cost_usd": 7.737e-05}

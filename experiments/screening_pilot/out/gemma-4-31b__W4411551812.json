@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4411551812", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Benchmarks a RAG-based approach for drone command classification.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Benchmarks a RAG-based approach for drone command classification."}, "cost_usd": 0.0001184}

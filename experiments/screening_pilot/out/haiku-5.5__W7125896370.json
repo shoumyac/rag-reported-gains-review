@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7125896370", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a utility-driven reranker for RAG pipelines with experiments on QA datasets.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a utility-driven reranker for RAG pipelines with experiments on QA datasets."}, "cost_usd": 0.0001247}

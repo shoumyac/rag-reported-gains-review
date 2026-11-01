@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7154466732", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E9\", \"reason\": \"Multimodal-only RAG focusing on chest X-ray analysis and reports.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E9", "reason": "Multimodal-only RAG focusing on chest X-ray analysis and reports."}, "cost_usd": 0.000131}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7161253304", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system for clinical reporting.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system for clinical reporting."}, "cost_usd": 5.8603999999999997e-05}

@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7143976277", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Proposes and evaluates a local RAG system, comparing RAG models against a non-RAG baseline.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a local RAG system, comparing RAG models against a non-RAG baseline."}, "cost_usd": 0.002322}

@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7134857392", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Survey paper with no new RAG experiments\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Survey paper with no new RAG experiments"}, "cost_usd": 7.246e-05}

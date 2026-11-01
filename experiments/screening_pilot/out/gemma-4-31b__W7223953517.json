@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7223953517", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates a RAG system using a paired RAG ON/OFF experimental design.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates a RAG system using a paired RAG ON/OFF experimental design."}, "cost_usd": 0.0001602}

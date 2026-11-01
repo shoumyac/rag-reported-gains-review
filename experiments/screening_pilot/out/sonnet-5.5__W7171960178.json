@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7171960178", "raw": "{\"decision\":\"EXCLUDE\",\"code\":\"E2\",\"reason\":\"Review article on causal AI in oncology; RAG only mentioned in passing, no new experiments.\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Review article on causal AI in oncology; RAG only mentioned in passing, no new experiments."}, "cost_usd": 0.003122}

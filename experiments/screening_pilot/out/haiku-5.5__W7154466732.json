@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7154466732", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E9\", \"reason\": \"Multimodal RAG over chest X-ray images and reports; the rule excludes multimodal RAG.\"}", "parsed": {"decision": "EXCLUDE", "code": "E9", "reason": "Multimodal RAG over chest X-ray images and reports; the rule excludes multimodal RAG."}, "cost_usd": 0.0003778}

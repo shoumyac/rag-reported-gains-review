@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4412888903", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Experiments evaluate models using RAG (e.g., ChatHaruhi and Neeko).\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Experiments evaluate models using RAG (e.g., ChatHaruhi and Neeko)."}, "cost_usd": 0.000187}

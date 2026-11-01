@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7166837475", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates a curated RAG system for political fact-checking experiments.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates a curated RAG system for political fact-checking experiments."}, "cost_usd": 0.00013220000000000001}

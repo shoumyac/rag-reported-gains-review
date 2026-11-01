@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7125912194", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system for tumour boards.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system for tumour boards."}, "cost_usd": 5.8513e-05}

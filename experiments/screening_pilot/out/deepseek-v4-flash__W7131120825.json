@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7131120825", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system for data element negotiation.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system for data element negotiation."}, "cost_usd": 4.5773e-05}

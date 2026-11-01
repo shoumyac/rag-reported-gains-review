@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7161253304", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E9\", \"reason\": \"Multimodal-only RAG, text-only not mentioned\"}", "parsed": {"decision": "EXCLUDE", "code": "E9", "reason": "Multimodal-only RAG, text-only not mentioned"}, "cost_usd": 7.114e-05}

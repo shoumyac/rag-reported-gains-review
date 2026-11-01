@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7159600006", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a RAG agent for disease severity classification with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a RAG agent for disease severity classification with experiments."}, "cost_usd": 7.1981e-05}

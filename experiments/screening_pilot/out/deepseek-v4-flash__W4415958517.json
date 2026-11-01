@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4415958517", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes STAR-RAG, a temporal GraphRAG method with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes STAR-RAG, a temporal GraphRAG method with experiments."}, "cost_usd": 5.2052e-05}

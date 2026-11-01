@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7160105817", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Describes a RAG system with experiments on legal document tasks\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Describes a RAG system with experiments on legal document tasks"}, "cost_usd": 7.336999999999998e-05}

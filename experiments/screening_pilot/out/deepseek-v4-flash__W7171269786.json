@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7171269786", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Compares RAG strategies with experiments on educational QA datasets.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Compares RAG strategies with experiments on educational QA datasets."}, "cost_usd": 6.9433e-05}

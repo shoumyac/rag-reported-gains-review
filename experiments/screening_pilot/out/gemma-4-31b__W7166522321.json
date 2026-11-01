@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7166522321", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system for SVG generation.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system for SVG generation."}, "cost_usd": 0.0001224}

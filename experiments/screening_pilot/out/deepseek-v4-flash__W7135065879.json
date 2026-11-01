@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7135065879", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Paper evaluates RAG integration with LLMs on lung cancer questions.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Paper evaluates RAG integration with LLMs on lung cancer questions."}, "cost_usd": 6.897799999999999e-05}

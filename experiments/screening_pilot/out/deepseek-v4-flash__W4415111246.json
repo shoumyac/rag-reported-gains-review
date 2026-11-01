@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4415111246", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a RAG-based Text2SQL framework with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a RAG-based Text2SQL framework with experiments."}, "cost_usd": 4.9959e-05}

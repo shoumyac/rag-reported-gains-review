@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7115889668", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"Paper explicitly distinguishes from RAG systems, not about RAG.\"}", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "Paper explicitly distinguishes from RAG systems, not about RAG."}, "cost_usd": 5.0323e-05}

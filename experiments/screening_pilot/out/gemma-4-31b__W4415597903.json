@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4415597903", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system using Knowledge Graphs for robot control.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system using Knowledge Graphs for robot control."}, "cost_usd": 0.0001598}

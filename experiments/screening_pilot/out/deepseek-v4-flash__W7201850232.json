@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7201850232", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a RAG system for lab education with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a RAG system for lab education with experiments."}, "cost_usd": 5.6329e-05}

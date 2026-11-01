@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4403795280", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes KAG and evaluates it against existing RAG methods on multiple datasets.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes KAG and evaluates it against existing RAG methods on multiple datasets."}, "cost_usd": 0.0001456}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7137985142", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG method for multi-hop QA with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG method for multi-hop QA with experiments."}, "cost_usd": 5.5692e-05}

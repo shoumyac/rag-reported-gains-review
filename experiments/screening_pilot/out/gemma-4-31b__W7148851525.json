@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7148851525", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates RAG as an architectural ablation baseline against tool-use agents.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates RAG as an architectural ablation baseline against tool-use agents."}, "cost_usd": 0.0001652}

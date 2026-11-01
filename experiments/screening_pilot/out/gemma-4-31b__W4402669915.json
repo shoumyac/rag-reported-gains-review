@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4402669915", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates RAG performance and its impact on LLM accuracy for KGQA.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates RAG performance and its impact on LLM accuracy for KGQA."}, "cost_usd": 0.00011520000000000001}

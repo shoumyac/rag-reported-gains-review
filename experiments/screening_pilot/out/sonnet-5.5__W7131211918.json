@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7131211918", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Proposes a query optimization framework for RAG to improve retrieval and response quality.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a query optimization framework for RAG to improve retrieval and response quality."}, "cost_usd": 0.002244}

@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4414011024", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG-based system for NLQ2SPARQL conversion.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG-based system for NLQ2SPARQL conversion."}, "cost_usd": 0.000152}

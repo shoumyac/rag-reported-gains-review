@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7160105817", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a text-only RAG legal assistant system; not survey, dataset, or non-RAG.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a text-only RAG legal assistant system; not survey, dataset, or non-RAG."}, "cost_usd": 0.0002928}

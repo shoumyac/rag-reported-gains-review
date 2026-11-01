@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7130902510", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title proposes RAG for referral routing, but experiments are unconfirmed.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title proposes RAG for referral routing, but experiments are unconfirmed."}, "cost_usd": 0.0002092}

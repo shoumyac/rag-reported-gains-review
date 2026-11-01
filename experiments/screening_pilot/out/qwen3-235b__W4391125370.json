@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W4391125370", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Experiments with RAG using code-based models for QA extraction\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Experiments with RAG using code-based models for QA extraction"}, "cost_usd": 5.5100000000000004e-05}

@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7166522848", "raw": "{\"decision\":\"MAYBE\",\"code\":null,\"reason\":\"No abstract; title suggests multimodal RAG, but not clearly multimodal-only or experimental.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title suggests multimodal RAG, but not clearly multimodal-only or experimental."}, "cost_usd": 0.004178}

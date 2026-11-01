@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7172323796", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Paper describes experiments with a RAG system using Qwen and TEI guidelines.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Paper describes experiments with a RAG system using Qwen and TEI guidelines."}, "cost_usd": 6.7886e-05}

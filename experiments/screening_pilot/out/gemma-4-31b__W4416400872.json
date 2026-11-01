@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4416400872", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG-based framework for personalized LLM agents.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG-based framework for personalized LLM agents."}, "cost_usd": 0.0001336}

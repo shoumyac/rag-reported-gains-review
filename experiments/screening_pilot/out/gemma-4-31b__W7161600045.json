@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7161600045", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG-based framework for electronic component selection.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG-based framework for electronic component selection."}, "cost_usd": 0.0001274}

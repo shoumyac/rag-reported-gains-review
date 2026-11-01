@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4406917782", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG-integrated solution for business data analysis.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG-integrated solution for business data analysis."}, "cost_usd": 0.0001118}

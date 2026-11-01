@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7220695746", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"Title suggests RAG with KG, but no abstract to confirm experiments.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "Title suggests RAG with KG, but no abstract to confirm experiments."}, "cost_usd": 3.7492000000000006e-05}

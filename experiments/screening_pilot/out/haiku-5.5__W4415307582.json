@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4415307582", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Survey of KB-VQA methods with no new RAG experiments.\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Survey of KB-VQA methods with no new RAG experiments."}, "cost_usd": 0.00018610000000000002}

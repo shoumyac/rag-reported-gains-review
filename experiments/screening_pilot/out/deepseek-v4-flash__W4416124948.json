@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4416124948", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a novel poisoning attack on RAG systems.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a novel poisoning attack on RAG systems."}, "cost_usd": 5.1324e-05}

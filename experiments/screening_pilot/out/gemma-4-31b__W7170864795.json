@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7170864795", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a defense method for RAG systems with experiments.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a defense method for RAG systems with experiments."}, "cost_usd": 0.000137}

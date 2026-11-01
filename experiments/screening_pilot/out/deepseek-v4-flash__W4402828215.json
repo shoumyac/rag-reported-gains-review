@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4402828215", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes RAG system for eating event analysis with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes RAG system for eating event analysis with experiments."}, "cost_usd": 5.3963e-05}

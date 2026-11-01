@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4416260031", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a RAG system with retrieval layer and experiments vs. naive RAG baseline.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a RAG system with retrieval layer and experiments vs. naive RAG baseline."}, "cost_usd": 0.00012869999999999998}

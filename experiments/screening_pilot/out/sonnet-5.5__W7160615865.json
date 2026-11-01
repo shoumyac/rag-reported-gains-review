@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7160615865", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Proposes agentic RAG framework FinAgent-RAG with experiments on FinQA, ConvFinQA, TAT-QA.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes agentic RAG framework FinAgent-RAG with experiments on FinQA, ConvFinQA, TAT-QA."}, "cost_usd": 0.002826}

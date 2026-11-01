@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7131663398", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title alone doesn't indicate RAG use, so unclear.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title alone doesn't indicate RAG use, so unclear."}, "cost_usd": 0.001542}

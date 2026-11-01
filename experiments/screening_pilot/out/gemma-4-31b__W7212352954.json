@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7212352954", "raw": "```json\n{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title suggests LLM recommendations but RAG status is unclear.\"}\n```", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title suggests LLM recommendations but RAG status is unclear."}, "cost_usd": 8.72e-05}

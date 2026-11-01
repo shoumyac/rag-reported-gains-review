@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7167027569", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes KG-enhanced RAG framework with experiments against baseline on medical QA.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes KG-enhanced RAG framework with experiments against baseline on medical QA."}, "cost_usd": 0.0001099}

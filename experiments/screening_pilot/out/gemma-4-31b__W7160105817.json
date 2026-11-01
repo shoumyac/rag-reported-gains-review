@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7160105817", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and implements a RAG system for legal assistance.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and implements a RAG system for legal assistance."}, "cost_usd": 0.00014240000000000002}

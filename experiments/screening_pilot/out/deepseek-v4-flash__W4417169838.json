@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4417169838", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG pipeline for Arabic legal domain.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG pipeline for Arabic legal domain."}, "cost_usd": 5.8331e-05}

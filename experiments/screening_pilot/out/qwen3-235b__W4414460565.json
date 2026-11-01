@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W4414460565", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E9\", \"reason\": \"Multimodal-only RAG with quantum retrieval\"}", "parsed": {"decision": "EXCLUDE", "code": "E9", "reason": "Multimodal-only RAG with quantum retrieval"}, "cost_usd": 6.788e-05}

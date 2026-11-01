@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4417268875", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates RAG systems with experiments on MASSIVEDS datastore.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates RAG systems with experiments on MASSIVEDS datastore."}, "cost_usd": 5.2598e-05}

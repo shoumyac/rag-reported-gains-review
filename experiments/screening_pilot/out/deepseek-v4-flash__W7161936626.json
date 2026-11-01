@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7161936626", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes evaluation framework for RAG conversational retrieval systems.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes evaluation framework for RAG conversational retrieval systems."}, "cost_usd": 5.2233999999999995e-05}

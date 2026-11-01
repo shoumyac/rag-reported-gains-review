@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7165193904", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG method (BioManner)\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG method (BioManner)"}, "cost_usd": 7.041e-05}

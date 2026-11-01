@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7204910822", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E9\", \"reason\": \"Focuses on multimodal RAG for cultural reasoning via MLLMs.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E9", "reason": "Focuses on multimodal RAG for cultural reasoning via MLLMs."}, "cost_usd": 0.00011140000000000001}

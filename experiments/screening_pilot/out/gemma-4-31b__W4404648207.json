@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4404648207", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG framework using a knowledge graph for QA.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG framework using a knowledge graph for QA."}, "cost_usd": 0.000133}

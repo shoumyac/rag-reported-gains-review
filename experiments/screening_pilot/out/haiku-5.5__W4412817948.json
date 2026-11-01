@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4412817948", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title does not show whether retrieval conditions the LLM generator.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title does not show whether retrieval conditions the LLM generator."}, "cost_usd": 0.00014209999999999998}

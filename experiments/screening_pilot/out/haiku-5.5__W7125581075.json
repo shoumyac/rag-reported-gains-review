@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7125581075", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Integrates RAG into SLMs, evaluates on MMLU Pro with retrieved passages as context.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Integrates RAG into SLMs, evaluates on MMLU Pro with retrieved passages as context."}, "cost_usd": 0.0001447}

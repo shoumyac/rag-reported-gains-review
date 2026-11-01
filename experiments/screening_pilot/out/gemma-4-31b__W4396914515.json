@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4396914515", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"Title indicates an economics paper, not about retrieval-augmented generation.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "Title indicates an economics paper, not about retrieval-augmented generation."}, "cost_usd": 8.32e-05}

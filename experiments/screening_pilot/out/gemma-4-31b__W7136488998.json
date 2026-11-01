@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7136488998", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system (HomeGenii) for generating TAP rules.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system (HomeGenii) for generating TAP rules."}, "cost_usd": 0.00013}

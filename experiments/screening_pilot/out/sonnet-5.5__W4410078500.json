@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W4410078500", "raw": "{\"decision\":\"EXCLUDE\",\"code\":\"E2\",\"reason\":\"Overview/survey of RAG architecture and techniques; no new experiments indicated.\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Overview/survey of RAG architecture and techniques; no new experiments indicated."}, "cost_usd": 0.002186}

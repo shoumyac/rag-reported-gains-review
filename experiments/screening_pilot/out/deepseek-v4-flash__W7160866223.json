@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7160866223", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a RAG system for agricultural advisory with experiments implied.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a RAG system for agricultural advisory with experiments implied."}, "cost_usd": 5.1961e-05}

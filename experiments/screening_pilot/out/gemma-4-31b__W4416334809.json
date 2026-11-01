@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4416334809", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system for equipment failure root cause queries.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system for equipment failure root cause queries."}, "cost_usd": 0.000122}

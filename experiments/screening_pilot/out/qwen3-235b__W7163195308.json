@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7163195308", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a GraphRAG-based retrieval framework with LLM validation\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a GraphRAG-based retrieval framework with LLM validation"}, "cost_usd": 7.286e-05}

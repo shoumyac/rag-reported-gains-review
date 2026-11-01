@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4415254283", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a multi-agent framework integrating domain-specific RAG.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a multi-agent framework integrating domain-specific RAG."}, "cost_usd": 0.0001082}

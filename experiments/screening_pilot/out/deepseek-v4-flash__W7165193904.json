@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7165193904", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes RAG-based BioManner framework with experiments showing improvements.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes RAG-based BioManner framework with experiments showing improvements."}, "cost_usd": 6.006e-05}

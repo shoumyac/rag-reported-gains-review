@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7160641776", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and implements a RAG system for maternal care chatbot.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and implements a RAG system for maternal care chatbot."}, "cost_usd": 0.0001236}

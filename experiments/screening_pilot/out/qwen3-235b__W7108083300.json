@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7108083300", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Describes RAG chatbot with retrieval and generation\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Describes RAG chatbot with retrieval and generation"}, "cost_usd": 7.479e-05}

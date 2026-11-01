@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4416070667", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a retrieval-enhanced LLM framework for parameter extraction.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a retrieval-enhanced LLM framework for parameter extraction."}, "cost_usd": 0.000142}

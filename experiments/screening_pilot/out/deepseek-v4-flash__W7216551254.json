@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7216551254", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes RAG with citations for factual integrity in government AI.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes RAG with citations for factual integrity in government AI."}, "cost_usd": 0.00036254399999999996}

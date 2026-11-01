@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7133535979", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system for PDF question answering.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system for PDF question answering."}, "cost_usd": 0.00012860000000000004}

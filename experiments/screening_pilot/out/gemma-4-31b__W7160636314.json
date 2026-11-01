@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7160636314", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E9\", \"reason\": \"Focuses on multimodal RAG (PDFs, videos) and multimodal faithfulness metrics.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E9", "reason": "Focuses on multimodal RAG (PDFs, videos) and multimodal faithfulness metrics."}, "cost_usd": 0.0001278}

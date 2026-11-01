@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7203833294", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates LLM performance with and without RAG for API misconfiguration detection.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates LLM performance with and without RAG for API misconfiguration detection."}, "cost_usd": 0.0001486}

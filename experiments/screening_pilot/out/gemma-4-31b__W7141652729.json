@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7141652729", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG-based system for distribution network planning.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG-based system for distribution network planning."}, "cost_usd": 0.0001388}

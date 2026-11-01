@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7222944213", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates MemLLM for on-device RAG\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates MemLLM for on-device RAG"}, "cost_usd": 7.453999999999999e-05}

@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7201859571", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system for cybersecurity\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system for cybersecurity"}, "cost_usd": 7.578e-05}

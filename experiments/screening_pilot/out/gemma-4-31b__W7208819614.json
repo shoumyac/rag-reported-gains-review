@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7208819614", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Conceptual study and theory-building without new experiments of a RAG method.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Conceptual study and theory-building without new experiments of a RAG method."}, "cost_usd": 0.0001544}

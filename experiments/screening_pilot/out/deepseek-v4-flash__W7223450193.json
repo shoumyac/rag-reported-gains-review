@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7223450193", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a RAG-based memory system for VR training with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a RAG-based memory system for VR training with experiments."}, "cost_usd": 5.8330999999999994e-05}

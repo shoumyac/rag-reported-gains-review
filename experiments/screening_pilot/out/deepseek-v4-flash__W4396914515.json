@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4396914515", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"Title suggests economics, not retrieval-augmented generation.\"}", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "Title suggests economics, not retrieval-augmented generation."}, "cost_usd": 3.5489999999999994e-05}

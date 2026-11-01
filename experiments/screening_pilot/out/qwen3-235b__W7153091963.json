@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7153091963", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes Causal-RAG system with retrieval and generation for root cause analysis\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes Causal-RAG system with retrieval and generation for root cause analysis"}, "cost_usd": 6.934999999999999e-05}

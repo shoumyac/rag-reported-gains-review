@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7223953517", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates RAG ON/OFF in XR system\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates RAG ON/OFF in XR system"}, "cost_usd": 7.993e-05}

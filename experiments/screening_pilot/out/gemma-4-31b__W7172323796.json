@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7172323796", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Paper evaluates a RAG system built from TEI P5 Guidelines.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Paper evaluates a RAG system built from TEI P5 Guidelines."}, "cost_usd": 0.00015060000000000003}

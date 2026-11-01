@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7119032205", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a RAG system with knowledge graph retrieval for QA.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a RAG system with knowledge graph retrieval for QA."}, "cost_usd": 5.951399999999999e-05}

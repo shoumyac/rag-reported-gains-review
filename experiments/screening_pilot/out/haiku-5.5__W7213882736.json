@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7213882736", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"Benchmarks vector search latency and cost; no generator conditions on retrieved text.\"}", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "Benchmarks vector search latency and cost; no generator conditions on retrieved text."}, "cost_usd": 0.0003205}

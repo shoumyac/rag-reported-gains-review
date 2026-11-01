@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7213348079", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Title describes measured energy of adaptive RAG, implying experiments with a RAG system.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Title describes measured energy of adaptive RAG, implying experiments with a RAG system."}, "cost_usd": 0.0002635}

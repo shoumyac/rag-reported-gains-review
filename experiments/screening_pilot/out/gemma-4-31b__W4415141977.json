@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4415141977", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Review paper discussing RAG as an emerging solution without new experiments.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Review paper discussing RAG as an emerging solution without new experiments."}, "cost_usd": 0.0001316}

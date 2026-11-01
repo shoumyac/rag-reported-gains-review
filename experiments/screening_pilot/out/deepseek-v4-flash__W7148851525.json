@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7148851525", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Compares RAG with MCP tools in experiments on LLM agents.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Compares RAG with MCP tools in experiments on LLM agents."}, "cost_usd": 7.28e-05}

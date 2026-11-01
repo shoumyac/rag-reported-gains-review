@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7124445532", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a novel RAG method for hybrid text-table documents.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a novel RAG method for hybrid text-table documents."}, "cost_usd": 5.6238e-05}

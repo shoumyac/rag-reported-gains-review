@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4403816579", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates RAG performance on ENEM exam using four different LMs.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates RAG performance on ENEM exam using four different LMs."}, "cost_usd": 0.0001184}

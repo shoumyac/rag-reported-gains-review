@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7129470758", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a RAG system for personalized interview prep with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a RAG system for personalized interview prep with experiments."}, "cost_usd": 5.5419e-05}

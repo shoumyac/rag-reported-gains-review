@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7116698575", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Case study evaluates the use of RAG to enhance policy formulation accuracy.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Case study evaluates the use of RAG to enhance policy formulation accuracy."}, "cost_usd": 0.00010960000000000001}

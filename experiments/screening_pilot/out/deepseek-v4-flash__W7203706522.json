@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7203706522", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes LEF method for RAG evidence separation and evaluates it experimentally.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes LEF method for RAG evidence separation and evaluates it experimentally."}, "cost_usd": 6.6885e-05}

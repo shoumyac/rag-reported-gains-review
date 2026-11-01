@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7166642896", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Proposes CGS-RAG, a graph-based text RAG framework, with experiments on question answering.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes CGS-RAG, a graph-based text RAG framework, with experiments on question answering."}, "cost_usd": 0.002586}

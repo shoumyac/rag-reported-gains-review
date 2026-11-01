@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7143378995", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates a RAG system for fake news classification\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates a RAG system for fake news classification"}, "cost_usd": 5.8150000000000004e-05}

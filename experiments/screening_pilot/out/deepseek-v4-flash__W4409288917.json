@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4409288917", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a RAG system for profanity detection and replacement.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a RAG system for profanity detection and replacement."}, "cost_usd": 7.052499999999999e-05}

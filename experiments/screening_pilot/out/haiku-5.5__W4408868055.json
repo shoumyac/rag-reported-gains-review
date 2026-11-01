@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4408868055", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Strategic/position-style overview of RAG in hospitality; no RAG experiments evident.\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Strategic/position-style overview of RAG in hospitality; no RAG experiments evident."}, "cost_usd": 0.000257}

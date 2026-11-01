@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7224884717", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Title explicitly proposes a Fusion Retrieval-Augmented Generation framework.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Title explicitly proposes a Fusion Retrieval-Augmented Generation framework."}, "cost_usd": 8.420000000000001e-05}

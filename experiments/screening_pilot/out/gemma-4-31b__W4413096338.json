@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4413096338", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a new RAG method (DHGE-RAG) on standard benchmarks.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a new RAG method (DHGE-RAG) on standard benchmarks."}, "cost_usd": 0.0001298}

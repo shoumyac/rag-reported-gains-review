@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7168170209", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Controlled experiment comparing LLM outputs with and without RAG on HTA writing task.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Controlled experiment comparing LLM outputs with and without RAG on HTA writing task."}, "cost_usd": 0.0002765}

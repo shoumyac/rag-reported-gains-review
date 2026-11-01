@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7162250010", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Builds a system with a RAG-based Exam Mode and reports ROUGE-L faithfulness results.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Builds a system with a RAG-based Exam Mode and reports ROUGE-L faithfulness results."}, "cost_usd": 0.003396}

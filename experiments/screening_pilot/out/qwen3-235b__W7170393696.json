@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7170393696", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title mentions multimodal RAG but unclear focus\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title mentions multimodal RAG but unclear focus"}, "cost_usd": 4.747e-05}

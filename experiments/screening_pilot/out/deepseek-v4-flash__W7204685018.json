@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7204685018", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates RAG chunking strategies with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates RAG chunking strategies with experiments."}, "cost_usd": 5.6966e-05}

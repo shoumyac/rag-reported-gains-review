@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7166677581", "raw": "```json\n{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"Title suggests RAG experiments, but no abstract available to confirm.\"}\n```", "parsed": {"decision": "MAYBE", "code": null, "reason": "Title suggests RAG experiments, but no abstract available to confirm."}, "cost_usd": 8.44e-05}

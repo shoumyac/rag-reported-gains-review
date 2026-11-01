@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7152912206", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"Title proposes a RAG framework, but with no abstract, experiments cannot be confirmed.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "Title proposes a RAG framework, but with no abstract, experiments cannot be confirmed."}, "cost_usd": 0.0001753}

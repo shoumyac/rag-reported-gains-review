@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7223094770", "raw": "{\"decision\":\"EXCLUDE\",\"code\":\"E2\",\"reason\":\"Theoretical review; authors state no new system or experiments.\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Theoretical review; authors state no new system or experiments."}, "cost_usd": 0.002466}

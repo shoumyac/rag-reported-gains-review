@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7108083300", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Builds and describes a RAG chatbot and evaluates it with a student survey.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Builds and describes a RAG chatbot and evaluates it with a student survey."}, "cost_usd": 0.0002567}

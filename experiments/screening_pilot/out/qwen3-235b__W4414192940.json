@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W4414192940", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates RAG impact on LLM accuracy\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates RAG impact on LLM accuracy"}, "cost_usd": 0.00010044}

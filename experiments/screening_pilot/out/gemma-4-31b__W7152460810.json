@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7152460810", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Title explicitly proposes a method for retrieval-augmented language models.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Title explicitly proposes a method for retrieval-augmented language models."}, "cost_usd": 8.36e-05}

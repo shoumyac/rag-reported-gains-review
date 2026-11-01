@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7214972725", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"Title suggests a general LLM survey, not about RAG.\"}", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "Title suggests a general LLM survey, not about RAG."}, "cost_usd": 3.7037e-05}

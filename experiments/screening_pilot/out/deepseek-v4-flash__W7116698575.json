@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7116698575", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Describes using RAG to enhance policy formulation, includes experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Describes using RAG to enhance policy formulation, includes experiments."}, "cost_usd": 4.7684e-05}

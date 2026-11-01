@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7136488998", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Proposes HomeGenii, a text-based RAG system, and evaluates it against non-RAG baselines.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes HomeGenii, a text-based RAG system, and evaluates it against non-RAG baselines."}, "cost_usd": 0.002448}

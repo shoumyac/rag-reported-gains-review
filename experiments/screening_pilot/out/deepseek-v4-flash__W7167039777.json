@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7167039777", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG-enhanced cooking assistant system.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG-enhanced cooking assistant system."}, "cost_usd": 5.3417e-05}

@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7125896370", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Proposes LURE-RAG reranking method for RAG with experiments on two datasets.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes LURE-RAG reranking method for RAG with experiments on two datasets."}, "cost_usd": 0.002454}

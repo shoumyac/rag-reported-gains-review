@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7204270122", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes StateTune, evaluates against RAG baseline, includes RAG experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes StateTune, evaluates against RAG baseline, includes RAG experiments."}, "cost_usd": 6.688500000000001e-05}

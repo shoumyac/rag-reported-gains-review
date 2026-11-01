@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4414945274", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E9\", \"reason\": \"Multimodal-only RAG focusing on visual content/images.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E9", "reason": "Multimodal-only RAG focusing on visual content/images."}, "cost_usd": 0.0001448}

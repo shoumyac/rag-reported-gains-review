@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7201850232", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Builds a RAG chatbot over lab documents and reports expert accuracy evaluation results.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Builds a RAG chatbot over lab documents and reports expert accuracy evaluation results."}, "cost_usd": 0.002458}

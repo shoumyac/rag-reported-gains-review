@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7143976277", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a local RAG framework and compares RAG vs non-RAG models with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a local RAG framework and compares RAG vs non-RAG models with experiments."}, "cost_usd": 0.00011460000000000001}

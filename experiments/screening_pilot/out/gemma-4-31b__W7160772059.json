@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7160772059", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Position paper discussing a service model without new RAG experiments.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Position paper discussing a service model without new RAG experiments."}, "cost_usd": 0.0001278}

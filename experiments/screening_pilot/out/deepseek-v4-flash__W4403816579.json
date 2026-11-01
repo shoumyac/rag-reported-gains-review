@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4403816579", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates RAG method on ENEM exam with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates RAG method on ENEM exam with experiments."}, "cost_usd": 5.1596999999999994e-05}

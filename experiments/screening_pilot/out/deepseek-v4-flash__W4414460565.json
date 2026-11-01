@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4414460565", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG method for medical VQA.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG method for medical VQA."}, "cost_usd": 5.7966999999999996e-05}

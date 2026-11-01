@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7131663398", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"Title suggests material design, unclear if RAG is involved.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "Title suggests material design, unclear if RAG is involved."}, "cost_usd": 3.5945e-05}

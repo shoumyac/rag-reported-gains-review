@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7167351592", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Builds and trials a RAG-based learning support tool with a user survey of 31 participants.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Builds and trials a RAG-based learning support tool with a user survey of 31 participants."}, "cost_usd": 0.00219}

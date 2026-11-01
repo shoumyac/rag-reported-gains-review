@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7168170209", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Experiments with RAG vs without RAG in AI writing\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Experiments with RAG vs without RAG in AI writing"}, "cost_usd": 0.00015329}

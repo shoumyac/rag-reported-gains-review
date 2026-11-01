@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7202304024", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates TRACE, a RAG framework for conversational systems.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates TRACE, a RAG framework for conversational systems."}, "cost_usd": 0.0001298}

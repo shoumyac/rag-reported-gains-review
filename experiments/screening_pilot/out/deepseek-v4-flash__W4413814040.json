@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4413814040", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG method for text-to-cypher generation.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG method for text-to-cypher generation."}, "cost_usd": 5.6693e-05}

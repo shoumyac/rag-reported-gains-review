@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7131319509", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates PR2, a new RAG method for personalized QA.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates PR2, a new RAG method for personalized QA."}, "cost_usd": 0.000129}

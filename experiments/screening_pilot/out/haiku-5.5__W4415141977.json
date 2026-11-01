@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4415141977", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Self-described review; mentions RAG only in passing, with no RAG experiments.\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Self-described review; mentions RAG only in passing, with no RAG experiments."}, "cost_usd": 0.0002382}

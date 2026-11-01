@@ -1,0 +1,301 @@
+openalex_id,doi,title
+W7128471263,https://doi.org/10.48550/arxiv.2602.07086,RAG Strategies for Natural Language-Based SQL Query and REST API Call Generation
+W7159930132,https://doi.org/10.2139/ssrn.6675828,Hierarchical Reliability-Aware Routing for Robust Artifact Recognition in Real-World Museum Environments
+W7171955510,https://doi.org/10.48550/arxiv.2607.27918,OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation
+W7203725119,https://doi.org/10.48550/arxiv.2608.14763,Cross-Modal Ultrasound-MRI Learning for Fetal Brain Ventricular Volumetry and Abnormality Screening
+W4416334809,https://doi.org/10.3390/electronics14224502,Implementation of a Device Failure Query Model for the Virtual Power Plant Smart Operation and Maintenance Platform Based on Retrieval-Augmented Generation Technology
+W7167221155,https://doi.org/10.48550/arxiv.2607.01299,HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching
+W7204577099,https://doi.org/10.17586/2226-1494-2026-26-4-860-867,RAG construction method for heterogeneous graph-hierarchical text corpus analysis
+W7158894033,https://doi.org/10.22214/ijraset.2026.80856,Reducing Hallucinations in Medical AI: A Multimodal Architecture with Retrieval-Augmented Validation and Safety-Aware Triage
+W7170188183,https://doi.org/10.18653/2026.findings-emnlp.1518,VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization
+W4387969743,https://doi.org/10.1145/3581783.3611830,RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training
+W4415822421,https://doi.org/10.1109/ro-man63969.2025.11217859,I Love Lemurs! What’s Your Favorite Animal? : Generating Personality-Driven Conversations for the Tabletop Robot Haru
+W4414990986,https://doi.org/10.1038/s41746-026-03058-7,MedKGent: a large language model agent framework for constructing temporally evolving medical knowledge graph
+W4409288917,https://doi.org/10.9708/jksci.2025.30.03.001,A Design and Implementation of Youth Profanity Prevention Application Based on LLM and Generative AI
+W4415371392,https://doi.org/10.13088/jiis.2025.31.13.211,Small Language Model–Based RAG for Document Question Answering in Education
+W7165890180,https://doi.org/10.5281/zenodo.20837817,Mnemosyne OS v5.2: Cognitive Memory Operating System — Product Whitepaper
+W4416502149,https://doi.org/10.48175/ijarsct-29973,"Conceptual Design of an LLM-Based Tech Product Recommendation System Using LangChain, LangGraph, Firecrawl, and n8n with RAG, Fine-Tuning, Prompt Engineering, and KNN with Cosine Similarity"
+W4412888903,https://doi.org/10.18653/v1/2025.findings-acl.47,SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs
+W7117931843,https://doi.org/10.65479/joinetech.29,Application of Agentive Artificial Intelligence and Retrieval-Augmented Generation for predictive Maintenance Operations
+W7171269786,,"Comparative Analysis of Static, Adaptive, and Agentic RAG Strategies for LLM-Based Online Tutoring"
+W7172323796,https://doi.org/10.4242/balisagevol31.beshero-bondar01,"XML, MCP, and Language Models"
+W7213882736,https://doi.org/10.5281/zenodo.22876750,Client-Side Semantic Search: Empirical Benchmarking of WebAssembly-Driven HNSW Vector Indexes in Browser Environments versus Centralized Cloud Vector Databases
+W7170153295,https://doi.org/10.14778/3827998.3828063,GraphContainer: A Unified Platform for Comparing and Debugging Graph RAG Methods
+W4416183388,https://doi.org/10.1109/gaclm67198.2025.11231867,Interactive Campus Crime Data Analytics: A Hybrid LLM-RAG System with Query Routing
+W7160772059,https://doi.org/10.5281/zenodo.20109966,Era of RAG-as-a-Service for Pretrained AI Applications
+W7223094770,https://doi.org/10.5281/zenodo.23535836,Retrieval-Augmented Generation for Enhancing Large Language Models with External Knowledge: A Critical Theoretical Review
+W4407404839,https://doi.org/10.1109/diia62678.2024.10871768,Framework Design and Implementation of the AI Aided Process Designing Platform for Shipbuilding Industry
+W4402502887,https://doi.org/10.48550/arxiv.2408.08901,Bayesian inference to improve quality of Retrieval Augmented Generation
+W4412947727,https://doi.org/10.26599/tst.2025.9010106,FT-HashRAG: Combining Hash Retrieval-Augmented Generation with Fine-Tuning for Universal Explainable Recommendation
+W7125905149,https://doi.org/10.1145/3774748.3795871,From Scattered to Structured: A Vision for Automating Architectural Knowledge Management
+W7204685018,https://doi.org/10.14569/ijacsa.2026.0170854,Effective Chunking for Retrieval-Augmented Generation over Structured Institutional Documents
+W4388502390,https://doi.org/10.1109/ase56229.2023.00090,Revisiting and Improving Retrieval-Augmented Deep Assertion Generation
+W7150939307,https://doi.org/10.48550/arxiv.2604.02409,LumiVideo: An Intelligent Agentic System for Video Color Grading
+W4415254283,https://doi.org/10.48550/arxiv.2509.17395,FinDebate: Multi-Agent Collaborative Intelligence for Financial Analysis
+W4415190889,https://doi.org/10.1145/3793655.3793715,OmniBench-RAG: A Multi-Domain Evaluation Platform for Retrieval-Augmented Generation Tools
+W7125013469,https://doi.org/10.1109/icicml67980.2025.11333708,A Multi-Agent Workflow for 3D Visualization Code Generation and Evaluation Based on Spatial-MLLM
+W7154824061,https://doi.org/10.22214/ijraset.2026.78876,Beyond Black Box: How LLMs Work with RAG to Deliver Personalized Financial Advisory
+W4396914515,https://doi.org/10.2139/ssrn.4829162,"Controlled Firms, Preferences, and Carbon Emissions"
+W7161253304,https://doi.org/10.48550/arxiv.2605.14113,ProtoMedAgent: Multimodal Clinical Interpretability via Privacy-Aware Agentic Workflows
+W7163147193,https://doi.org/10.1109/sieds69358.2026.11540259,Designing Retrieval Systems for LLMs: A Controlled Comparison of Chunk-Based and File-Centric Methods
+W7137985142,https://doi.org/10.1609/aaai.v40i36.40310,Mnemosyne: Accelerating Multi-Hop Question Answering via Cache Hit Order Fitting
+W7160641776,https://doi.org/10.1109/icscss64956.2025.11501167,Design and Implementation of a Voice-Enabled Maternal Care Chatbot using RAG Architecture
+W7138866100,https://doi.org/10.48550/arxiv.2603.17292,SEAL-Tag: Self-Tag Evidence Aggregation with Probabilistic Circuits for PII-Safe Retrieval-Augmented Generation
+W7131351623,https://doi.org/10.2139/ssrn.6302829,RE-SciVQA: Improving Scientific VQA with Context-Relevant Retrieval and Lightweight MLLM Adaptation
+W7151081630,https://doi.org/10.5281/zenodo.19441785,The Impact of Generative Ai on Consumer Interaction Metrics
+W7204910822,https://doi.org/10.48550/arxiv.2608.30498,CM2: Multimodal Cultural Reasoning via an Integrated Multi-Agent Framework
+W4416540288,https://doi.org/10.48550/arxiv.2504.11197,Efficient Distributed Retrieval-Augmented Generation for Enhancing Language Model Performance
+W7163195308,https://doi.org/10.3390/info17060541,A GraphRAG-Based Dual-Path Structural Diffusion Retrieval Framework for Requirement-Code Traceability Link Recovery
+W7164456408,,LEGALEASE: A Systematic Review of Large Language Models for Financial Legal Text Accessibility
+W7125258662,https://doi.org/10.48550/arxiv.2601.12148,Many Hands Make Light Work: An LLM-based Multi-Agent System for Detecting Malicious PyPI Packages
+W4415398167,https://doi.org/10.1109/etfa65518.2025.11205749,LangBO: A Framework for Language-Guided Prior Integration in Bayesian Optimization
+W7166739032,https://doi.org/10.18653/2026.findings-emnlp.1058,HyperSU: Corpus-Driven Semantic-Unit Hypergraph for Retrieval-Augmented Generation
+W7115889668,https://doi.org/10.5281/zenodo.17964411,METACORE_Architectural_Constraint_Layer_for_Reasoning_Defensive_Paper_EN_v1
+W7203833294,https://doi.org/10.53941/pc.2026.100012,Response-Level Identification of Cloud API Misconfigurations Using Large Language Models †
+W7141652729,https://doi.org/10.1109/iceaai68945.2026.11442575,Research on Intelligent Agent and Automated Decision Support System for Distribution Network Planning Based on Large Language Models
+W7160718927,https://doi.org/10.1007/978-3-032-19102-1_24,LARK: Integrating LLM-Based KG Construction and RAG for Financial Question Answering
+W4405029855,https://doi.org/10.48550/arxiv.2411.18947,ICLERB: In-Context Learning Embedding and Reranker Benchmark
+W4417169838,https://doi.org/10.1109/sita67914.2025.11273398,Low-Resource RAG Pipelines for Arabic Domain-Specific Corpora
+W7168360592,https://doi.org/10.1038/s40494-026-02779-y,A multi-representation knowledge graph approach for preserving and reasoning over Ming-style furniture
+W7223062107,https://doi.org/10.48550/arxiv.2610.24907,CAT-RAG: Improving Secure Code Generation with Category-Aware Agentic Retrieval
+W4408107728,https://doi.org/10.25103/jestr.181.23,GraphRAG-based Sleep Staging Method Using Multi-Strategy Adaptive Reinforcement Reward Learning and Multilevel Distillation Pruning
+W7162699017,https://doi.org/10.51244/ijrsi.2026.1305000033,Enhanced Retrieval-Augmented Generation Framework for Intelligent Multi-Document Question Answering
+W4414073409,https://doi.org/10.1007/978-3-032-05005-2_8,TutorLLM: Customizing Learning Recommendations with Knowledge Tracing and Retrieval-Augmented Generation
+W4410873894,https://doi.org/10.11648/j.edu.20251403.12,Integrating Generative AI in Higher Education: Practical Applications and Institutional Guidelines
+W4403788846,https://doi.org/10.48550/arxiv.2408.11800,WeQA: A Benchmark for Retrieval Augmented Generation in Wind Energy Domain
+W4407925296,https://doi.org/10.24018/compute.2025.5.1.148,Exploring RAG Solutions for a Specific Language: Albanian
+W7165552545,https://doi.org/10.1109/icsedi66420.2026.11568282,Large Language Models for Smart Grids and Renewable Energy: Emerging Directions
+W7214188380,https://doi.org/10.1016/j.procs.2026.08.247,Enhancing Occupational Safety and Health Information Retrieval Using a RAG-Powered Question Answering System on NIOSH Guideline Documents
+W7152460810,https://doi.org/10.1109/icecet63943.2025.11472215,A Scalable Two-Phase Method for Low-Overhead Retrieval-Augmented Language Models
+W7131092105,https://doi.org/10.1109/soli66289.2025.11396238,"Digitalisation in Audit: Development of Systems for Engagement, Training Monitoring, and a RAG-Augmented Chatbot"
+W7131319509,https://doi.org/10.48550/arxiv.2602.19317,Learning to Reason for Multi-Step Retrieval of Personal Context in Personalized Question Answering
+W7165781189,https://doi.org/10.5281/zenodo.20823545,ContextBench: Evaluating Context Engineering Strategies for Reliable LLM Workflow Automation
+W7125973755,https://doi.org/10.1109/ase63991.2025.00275,Multi-Modal Requirements Data-based Acceptance Criteria Generation using LLMs
+W7201859165,https://doi.org/10.1007/978-3-032-23317-2_12,A Scalable Framework for Domain-Specific Knowledge Enhancement in Medical Applications Using OpenBioLLM and Retrieval-Augmented Generation
+W4414460565,https://doi.org/10.48550/arxiv.2508.12036,Q-FSRU: Quantum-Augmented Frequency-Spectral Fusion for Medical Visual Question Answering
+W7216551254,https://doi.org/10.31673/2786-7412.2026.032113,INSTITUTIONAL AND TECHNOLOGICAL ARCHITECTURE OF GOVERNMENT AI IN UKRAINE:INTERNATIONAL EXPERIENCE AND MECHANISMS FOR CONTROLLING CONFABULATIONS
+W7156325762,https://doi.org/10.48550/arxiv.2604.22239,Navigating Large-Scale Document Collections: MuDABench for Multi-Document Analytical QA
+W7223450193,https://doi.org/10.1145/3841358.3841416,An Immersive VR System Architecture Combining Generative AI and Interaction: Design and Implementation of Dynamic Training Scene Generation
+W4415762705,https://doi.org/10.1016/j.aei.2025.104035,"Toward construction-specialized, small language models: The interplay of domain adaptation, model scale and data volume"
+W7218859019,https://doi.org/10.5281/zenodo.23118264,"Query Perturbations in RAG: Retrieval Instability, Evidence Availability, and Downstream Accuracy"
+W7208819614,https://doi.org/10.1108/jkm-03-2026-0627,Algorithmic epistemic authority and the degradation of organizational knowledge: how generative AI breaks the provenance structure of knowledge management systems
+W7105613620,https://doi.org/10.1109/access.2025.3632528,Evaluation of Automated Machinery Functional Safety Risk Assessment Using LLMs
+W4414011024,https://doi.org/10.1080/01639374.2025.2539786,ESEA (East-and-Southeast-Asian) Traditional Music Knowledge Base and Its Ontology-Subgraph-Driven NLQ2SPARQL Intelligent Question-Answering System
+W7203706522,https://doi.org/10.21203/rs.3.rs-10705669/v1,"Signed Layer-Level Evidence in Transformer Predictions, and a Diagnostic for When It Applies"
+W4411551812,https://doi.org/10.1109/ceii65291.2024.00025,MAVLingo: ‘A Natural Language Command Classification’ Dataset for MAVLink-Based Drones
+W4416260031,https://doi.org/10.48550/arxiv.2506.21593,PentaRAG: Large-Scale Intelligent Knowledge Retrieval for Enterprise LLM Applications
+W7160866223,https://doi.org/10.46647/ijetms.2026.v10i03.006,RENTSPHERE: VERNACULAR GENERATIVE AI FORAGRICULTURAL SOCIOECONOMIC EMPOWERMENT
+W4399209566,https://doi.org/10.1007/978-3-031-63028-6_7,Jill Watson: Scaling and Deploying an AI Conversational Agent in Online Classrooms
+W7125225847,https://doi.org/10.2139/ssrn.5973855,A Strategic Framework for Mitigating Risk in AI implementation in Legal Tech: A Retrieval-Augmented Generation Approach for the Indian Industry
+W7171960178,https://doi.org/10.65713/ijaraiv14i1223,CAUSAL ARTIFICIAL INTELLIGENCE IN ONCOLOGY: ENHANCING EXPLAINABILITY AND CLINICAL DECISION-MAKING IN PRECISION MEDICINE
+W7167039777,https://doi.org/10.65890/dmp.lnmr.impact26.24,CookIS: Your AI-Powered Cooking Companion
+W4411113110,https://doi.org/10.18653/v1/2025.findings-naacl.187,RATSD: Retrieval Augmented Truthfulness Stance Detection from Social Media Posts Toward Factual Claims
+W7131211918,https://doi.org/10.1109/ic-nidc67200.2025.11390210,Reasoning Query Optimize for Retrieval Augmented Generation
+W7223807052,https://doi.org/10.5937/oteh26090v,A retrieval-augmented generation system for Serbian military technical documentation using local language models
+W7159600006,https://doi.org/10.24433/co.8502400.v1,Large Language Model Agents for Evidence Based Genetic Disease Severity Classification
+W4410078500,https://doi.org/10.62476/jmte.10142,"Retrieval-Augmented Generation: Architecture, Techniques, and Evaluations"
+W4404781906,https://doi.org/10.18653/v1/2024.emnlp-main.1194,CompAct: Compressing Retrieved Documents Actively for Question Answering
+W7166837475,https://doi.org/10.18653/v1/2026.findings-acl.1467,Large Language Models Require Curated Context for Reliable Political Fact-Checking—Even with Reasoning and Web Search
+W7163214708,https://doi.org/10.1109/icaiset66439.2026.11541938,A Hybrid Asset Scoring Framework Combining Deterministic Quantitative Screening with RAG-Informed LLM Qualitative Evaluation for Portfolio Universe Reduction
+W7210265631,https://doi.org/10.1134/s1054661826700252,Contextual Learning Strategies for Dialogue Summarization Using Large Language Models
+W7166522848,https://doi.org/10.1007/978-981-92-1926-1_28,Multimodal RAG: Text-Informed Cross-Modal Enhancement for Efficient Local Deployment
+W7203834027,https://doi.org/10.1109/esmarta70636.2026.11652250,Beyond Lexical Overlap: A Multi-Dimensional Evaluation Framework for Arabic Retrieval-Augmented Generation Systems
+W7152912206,https://doi.org/10.1109/ic3et64989.2026.11467302,Secure Retrieval-Augmented Generation Framework for Automated Knowledge Access in Enterprise Git Repositories
+W7213401081,https://doi.org/10.48550/arxiv.2609.16764,"RECTIFY: An Interactive Workbench for Post-Evaluation RAG Diagnosis, Repair, and Verification"
+W7171409690,https://doi.org/10.1051/itmconf/20268801035,Push for New Users and New Content: Overview of Content Generation and Personalization of Large Language Model in Cold Start Scenario
+W7171506828,https://doi.org/10.3390/bdcc10080248,RACPR: Generative AI-Enhanced Risk-Aware Causal Path Re-Ranking for Interpretable Multimorbidity Risk Identification in Elderly Health Consultation Scenarios
+W7167902482,https://doi.org/10.1007/s00170-026-18700-7,Rethinking manufacturing agility assessment in the age of intelligent systems: a multi-agent skill-enhanced RAG framework for the digital manufacturing era
+W4391125370,https://doi.org/10.48550/arxiv.2401.10286,Code-Based English Models Surprising Performance on Chinese QA Pair Extraction Task
+W7140215405,https://doi.org/10.3390/math14071094,CalcTutor: Multi-Agent LLM Grading of Handwritten Mathematics with RAG-Grounded Feedback for Adaptive Learning Support
+W4412888033,https://doi.org/10.18653/v1/2025.findings-acl.772,RISE: Reasoning Enhancement via Iterative Self-Exploration in Multi-hop Question Answering
+W7223953517,https://doi.org/10.1145/3845810,Design and Evaluation of an LLM-Powered Virtual Guide for Rupestrian Churches Using XR Technologies
+W7164036702,https://doi.org/10.48550/arxiv.2606.09037,A Multi-Agent System for Motor Design Optimization via an FEA-AI Hybrid Approach
+W4413169881,https://doi.org/10.1101/2025.08.11.25333149,Evaluating General-Purpose LLMs for Patient-Facing Use: Dermatology-Centered Systematic Review and Meta-Analysis
+W4402669915,https://doi.org/10.18653/v1/2024.textgraphs-1.15,JellyBell at TextGraphs-17 Shared Task: Fusing Large Language Models with External Knowledge for Enhanced Question Answering
+W7154707346,https://doi.org/10.48550/arxiv.2604.14403,A Unified Model and Document Representation for On-Device Retrieval-Augmented Generation
+W7164364956,https://doi.org/10.48550/arxiv.2606.11212,EverydayGPT: Confidence-Gated Routing for Efficient and Safe Hybrid GPT-RAG Conversational QA
+W7204478321,https://doi.org/10.1061/9780784486962.025,Portable Lightweight Real-Time AI System Using Edge-RAG for Construction Best Practice Interactions
+W7133535979,https://doi.org/10.1109/icmcsi67283.2026.11412871,AARVIK: A Web-Based PDF Question Answering System Using Vector Embeddings and Large Language Models
+W7214972725,https://doi.org/10.1007/s00521-026-12365-9,"Decoding the Giants: a systematic taxonomy and empirical analysis of large language model architectures, training, and applications"
+W7161936626,https://doi.org/10.48550/arxiv.2605.20729,MTR-Suite: A Framework for Evaluating and Synthesizing Conversational Retrieval Benchmarks
+W7168276025,https://doi.org/10.2139/ssrn.7113516,Event Log Extraction from Unstructured Enterprise Messaging Using LLMs
+W4415797504,https://doi.org/10.52202/079017-1902,HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models
+W7214213962,https://doi.org/10.15662/ijrpetm.2024.0703018,From Data Hub to Data Marketplace: Retrieval-Augmented Generation over Governed KPI Products in a Federated Customer Experience Platform
+W4411160471,https://doi.org/10.17770/etr2025vol2.8603,APPLICATION OF A LARGE LANGUAGE MODEL FOR AIR POLLUTION ANALYSIS BY USING A RAG SYSTEM
+W4416154875,https://doi.org/10.1007/978-981-95-4434-9_32,Few-Shot Retrieval-Augmented LLMs for Anomaly Detection in Network Traffic
+W4416070667,https://doi.org/10.48550/arxiv.2502.16540,D2S-FLOW: Automated Parameter Extraction from Datasheets for SPICE Model Generation Using Large Language Models
+W4402828215,https://doi.org/10.1145/3675095.3676611,EchoGuide: Active Acoustic Guidance for LLM-Based Eating Event Analysis from Egocentric Videos
+W4404648207,https://doi.org/10.48550/arxiv.2411.12449,Neon: News Entity-Interaction Extraction for Enhanced Question Answering
+W7167059924,https://doi.org/10.1007/978-3-032-23260-1_4,Semantic-Aware P2P Routing: Bridging the Retrieval Gap with Distributed HNSW-Based Hill Climbing
+W7171663299,https://doi.org/10.2139/ssrn.6970500,Ontology Poisoning in Military AI Fusion Systems: Attack Vectors Against Palantir-Class Architectures
+W7160288422,https://doi.org/10.48550/arxiv.2605.01495,FT-RAG: A Fine-grained Retrieval-Augmented Generation Framework for Complex Table Reasoning
+W7117959797,https://doi.org/10.1007/978-3-032-08977-9_41,Open-Source LLMs for Technical Q&A: Lessons from StackExchange
+W7163413338,https://doi.org/10.1016/j.eswa.2026.134601,From 3D perception to safety reasoning: an intelligent hybrid framework for real-time underground mine monitoring
+W4412888816,https://doi.org/10.18653/v1/2025.findings-acl.86,Exploring Knowledge Filtering for Retrieval-Augmented Discriminative Tasks
+W4414577514,https://doi.org/10.48550/arxiv.2503.08199,A Cascading Cooperative Multi-agent Framework for On-ramp Merging Control Integrating Large Language Models
+W7161780804,https://doi.org/10.48550/arxiv.2605.18769,ClusterRAG: Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation
+W7135065879,https://doi.org/10.1177/20552076261427503,"Performance of latest AI models, RAG, and MCP on lung cancer-related questions"
+W7204179593,https://doi.org/10.48550/arxiv.2608.23241,Retrieval-Augmented Classification of Environmental Mitigations in Hydropower Licensing Documents
+W7124430983,https://doi.org/10.52202/083095-0038,Implementing Retrieval Augmented Generation for Knowledge Management in Long-Duration Space Missions
+W7166742713,https://doi.org/10.1145/3813723.3813731,Large Models in Smart Water Systems
+W7125015529,https://doi.org/10.18429/jacow-ibic2025-mopmo13,Intelligent Retrieval Systems for Accelerator Physics: Matching Retrieval Approaches to Use Cases
+W7166642896,https://doi.org/10.21203/rs.3.rs-9748268/v1,CGS-RAG:Community-Aggregated Graph Semantic Retrieval-Augmented Generation
+W4403816579,https://doi.org/10.5753/sbbd.2024.243137,Using Retrieval-Augmented Generation to improve Performance of Large Language Models on the Brazilian University Admission Exam
+W7202262937,https://doi.org/10.5281/zenodo.21906640,"Meridian: A Unified Multi-Agent HR System for Recruitment, Onboarding, and Performance Review"
+W7222986582,https://doi.org/10.52436/1.jutif.2026.7.5.5788,Retrieval-Augmented Generation Chatbot Using Gemini AI for Public Internship Information Services
+W4415273139,,Unifying Retrieval and Generation: A Survey on Retrieval-Augmented Generation in NLP
+W7214778694,https://doi.org/10.18653/2026.uncertainlp-main.17,The Temporal Tug-of-War: Visualizing and Detecting RAG Conflicts in Diffusion Models via Trajectory Variance
+W7214666129,https://doi.org/10.2118/232289-ms,Agentic Workflow for Automated Systematic Literature Review: A Case Study on Generative AI Applications in the Oil and Gas Industry
+W7134895601,https://doi.org/10.1109/icdmw69685.2025.00100,ESGF-Assistant: A Domain-Specific Large Language Model for Navigating Earth System Data
+W7222944213,https://doi.org/10.48550/arxiv.2610.22579,MemLLM: End-to-end In-Storage Acceleration of On-device Retrieval-Augmented Generation using Precomputed KV Caches
+W7222400195,https://doi.org/10.5281/zenodo.23406755,"Hyper-Synaptic Architecture (HSA v3.0): Dual-Space Embeddings, Tiered Context Resolution, and Truth-Maintenance Propagation over Knowledge Hypergraphs"
+W4403747086,https://doi.org/10.48550/arxiv.2409.12294,"RAG-Modulo: Solving Sequential Tasks using Experience, Critics, and Language Models"
+W4413855520,https://doi.org/10.1007/978-3-032-02813-6_6,Numbers Don’t Lie: Hybrid Extraction and Validation of Quantitative Statements in Arguments with Semi-structured Information
+W7160704893,https://doi.org/10.2139/ssrn.6741395,Patch-Aware Retrieval-Augmented Generation for Large Language Model Decision Support in Transportation Infrastructure Delivery
+W7110847750,https://doi.org/10.48550/arxiv.2512.06200,How Should We Evaluate Data Deletion in Graph-Based ANN Indexes?
+W7224884717,https://doi.org/10.1109/icosics70095.2026.11746827,A Hallucination-Resistant Document-Centric Conversational Framework Using Fusion Retrieval-Augmented Generation
+W7125266405,https://doi.org/10.48550/arxiv.2601.13227,Insider Knowledge: How Much Can RAG Systems Gain from Evaluation Secrets?
+W7169657576,https://doi.org/10.62643/ijerst.2026.v22.n2(1).4053,Intelligent Cloud-Based Document Retrieval and Generation using RAG
+W4394627664,https://doi.org/10.2139/ssrn.4771866,Implementation and Evaluation of an Additional Gpt-4-Based Reviewer in Prisma-Based Medical Systematic Literature Reviews
+W7161061757,https://doi.org/10.55041/ijsrem63122,Aegis: A Privacy-Adaptable Human-in-the-Loop Agentic Medical AI Ecosystem with Dual-Mode Inference and Autonomous Emergency Response
+W4398191999,https://doi.org/10.48550/arxiv.2405.11407,Can Public LLMs be used for Self-Diagnosis of Medical Conditions ?
+W7160636314,https://doi.org/10.1109/icitiit68860.2026.11499561,Multimodal Agentic RAG: A Hybrid Framework for Intelligent Extraction and Adaptive Retrieval on Unstructured Data Streams
+W7171259292,https://doi.org/10.5281/zenodo.21578431,A Trustworthy AI and Data Governance Architecture for Ensuring Integrity and Ethics in Large Language Model Deployments across Enterprise Platforms
+W7216379000,https://doi.org/10.20944/preprints202610.0085.v1,VERITAS: A Multilingual Temporal and Conflict-Aware Retrieval-Augmented Generation Framework
+W4407231112,https://doi.org/10.1109/tse.2026.3689066,Exploring the Security Threats of Knowledge Base Poisoning in Retrieval-Augmented Code Generation
+W7219993522,,Memory-Augmented Reasoning Optimization for Long-Horizon Language Model Tasks
+W7163058635,https://doi.org/10.1109/icjece.2026.3691315,Hybrid Retrieval-Augmented Generation for Interpretable Traffic Forecasting in Urban ITS
+W7167023592,https://doi.org/10.1007/978-3-032-22500-9_3,FISPA: A LLM-Based Assistance Framework for Fire Investigation
+W7148654415,https://doi.org/10.2139/ssrn.6491819,Predictive Analysis Based on Artificial Intelligence: For the Surveillance of Rare Diseases
+W7131663398,https://doi.org/10.2139/ssrn.6308436,Application of Literature Datasets and Knowledge Transfer to Accelerate Material Design
+W7127085515,https://doi.org/10.36227/techrxiv.177004277.71795055/v1,"""The Era of AI Agents for Network Engineering"": Intent-Aware Auto Remediation for Network Disruption or Failures Using AI Agents, Large Language Models (LLM) and Model Context Protocol (MCP) Mechanisms"
+W4414192940,https://doi.org/10.1101/2025.09.12.25334809,Open-source DeepSeek-R1 Outperforms Proprietary Non-Reasoning Large Language Models With and Without Retrieval-Augmented Generation
+W7212352954,https://doi.org/10.2139/ssrn.7436960,An Uncertainty-Aware Multimodal Swin Transformer for Robust Brain Tumor MRI Classification and Safe LLM-Based Clinical Recommendation Author:Sophia Bennette
+W7167027569,https://doi.org/10.25236/ajcis.2026.090503,Reasoning over Knowledge Graphs: Enhancing LLMs for Trustworthy Medical Question Answering
+W4416227525,https://doi.org/10.1007/978-981-96-8769-5_29,Risk Assessment for Construction Safety with Retrieval-Augmented Generation and Agentic Artificial Intelligence
+W7170393696,https://doi.org/10.1109/ecai69016.2026.11613599,MORAG: A Multimodal Offline Retrieval-Augmented Generation System Using Large Language Models
+W7125474103,https://doi.org/10.21203/rs.3.rs-8617092/v1,Auto-Intoxication Feedback Loop: Measuring Recursive Poisoning in RAG-GenAI Systems
+W7170864795,https://doi.org/10.48550/arxiv.2607.20437,TopoGuard: Graph Theory Based Defenses Against Split-Knowledge Attacks on RAG
+W4413968821,https://doi.org/10.18127/j20729472-202502-01,Access automation to information for navigating through semantic library data and integrating the knowledge graph with the language model
+W7202343207,https://doi.org/10.5281/zenodo.21923647,Counting Copies as Evidence: Confidence Inflation from Dependent Evidence in Retrieval-Augmented Generation (RAG)
+W7160422055,https://doi.org/10.48550/arxiv.2605.03099,A Multi-Survey Machine-Readable Corpus of Milky Way Globular Cluster Parameters for Retrieval-Augmented Generation Applications
+W4414895103,https://doi.org/10.48550/arxiv.2506.01093,Regulatory Graphs and GenAI for Real-Time Transaction Monitoring and Compliance Explanation in Banking
+W7166677581,https://doi.org/10.1007/978-3-032-30488-9_26,ESGRep: Learning Domain-Specific Embeddings for ESG Retrieval-Augmented Question Answering
+W4390690456,https://doi.org/10.48550/arxiv.2401.02851,Natural Language Programming in Medicine: Administering Evidence Based Clinical Workflows with Autonomous Agents Powered by Generative Large Language Models
+W7214122536,https://doi.org/10.1109/access.2026.3733686,Verifiable Legal Contract Question Answering Using Natural Language Inference Grounding and Knowledge Graphs
+W4402981978,https://doi.org/10.1109/icme57554.2024.10688280,RACon: Retrieval-Augmented Simulated Character Locomotion Control
+W7154466732,https://doi.org/10.1109/ic3ecsbhi67834.2026.11468951,Towards Secure and Explainable Medical AI: An Offline Multimodal RAG Assistant for Chest Radiology Analysis
+W7134857392,https://doi.org/10.48550/arxiv.2603.07670,"Memory for Autonomous LLM Agents:Mechanisms, Evaluation, and Emerging Frontiers"
+W7221086776,https://doi.org/10.48550/arxiv.2610.11370,RIT-RAG: Navigating Document Corpora with Retrieval-Induced Trees
+W7134916290,https://doi.org/10.1109/icdmw69685.2025.00178,FUSE: Failure-aware Usage of Subagent Evidence for MultiModal Search and Recommendation
+W7125226265,https://doi.org/10.26615/978-954-452-098-4-165,LLM-Based Product Recommendation with Prospect Theoretic Self Alignment Strategy
+W4413096338,https://doi.org/10.1109/icc-robins64345.2025.11086322,Evaluating Reinforcement Learning Based Models for Test Time Enhancement in RAG
+W7169839106,https://doi.org/10.1109/asens69964.2026.11605238,Research on Network Security Automated Vulnerability Scanning Based on MCP+RAG+LLM
+W7126381417,https://doi.org/10.21428/594757db.3f69a234,Advancements in Large Language Models Through Employment of Retrieval Augmented Generation and its Enhancements for Assistance in Academia
+W7148851525,https://doi.org/10.48550/arxiv.2604.01532,"PHMForge: Evaluating LLM Agents on Industrial Prognostics through MCP-Native, Algorithm-Grounded Tools"
+W4413224480,https://doi.org/10.3390/pr13082508,An AI-Assisted Thermodynamic Equilibrium Simulator: A Case Study on Steam Methane Reforming in Isothermal and Adiabatic Reactors
+W7123347456,https://doi.org/10.1109/etecom66111.2025.11319066,"Systematic Evaluation of Similarity Metrics for Retrieval, Reranking, and Completion in Retrieval Augmented Generation Systems"
+W7203750132,https://doi.org/10.2139/ssrn.7285757,A Custom Artificial Intelligence Chatbot Created High Quality Health Outcome Descriptors for Rheumatoid Arthritis Treatment
+W7164302049,https://doi.org/10.48550/arxiv.2606.11265,When Poison Fails After Retrieval: Revisiting Corpus Poisoning under Chunking and Reranking Pipelines
+W7155534512,https://doi.org/10.1109/icsc67292.2026.00058,Context Definition for Large Language Model Validation and Enhancement
+W7160105817,https://doi.org/10.62643/ijerst.2026.v22.n2(2).3021,AI Legal Assistant Using RAG and LLMs
+W4415123289,https://doi.org/10.2139/ssrn.5599504,SARAD: LLM-Based Safety-Aware Hybrid Reinforcement Learning with Collision Prediction for Autonomous Driving
+W7131120825,https://doi.org/10.1109/dsit67006.2025.11390043,A Data Element Negotiation Agent Based on Retrieval-Augmented Generation
+W7172390600,https://doi.org/10.5281/zenodo.21785628,Bridging the Chunk Gap: Pre-Computed Narrative Summaries for Temporally Grounded Retrieval-Augmented Generation
+W4415111246,https://doi.org/10.48550/arxiv.2506.12234,Datrics Text2SQL: A Framework for Natural Language to SQL Query Generation
+W4416256015,https://doi.org/10.48550/arxiv.2509.14265,Evolution of Kernels: Automated RISC-V Kernel Optimization with Large Language Models
+W4414945274,https://doi.org/10.1145/3746265.3759667,REVEAL: A Retrieval-Augmented Generation Approach for Contextual Identification of Synthetic Visual Content
+W7220329942,,"Siabsensi: Rancangan Sistem Informasi Sekolah dengan Presensi Multimoda, Gamifikasi, dan Tutor Berbasis RAG Serta Rencana Evaluasinya di SMA"
+W4410089187,https://doi.org/10.1145/3696410.3714908,Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems
+W7169721719,https://doi.org/10.5281/zenodo.21437818,AgriGuard AI: A Cloud-Agnostic Multi-Agent System for Precision Agriculture
+W4403795280,https://doi.org/10.48550/arxiv.2409.13731,KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation
+W4406272391,https://doi.org/10.48550/arxiv.2501.05030,A General Retrieval-Augmented Generation Framework for Multimodal Case-Based Reasoning Applications
+W7137901036,https://doi.org/10.1609/aaai.v40i4.37233,Knowledge-Enhanced Explainable Prompting for Vision-Language Models
+W7167784235,https://doi.org/10.1007/978-3-032-37447-9_11,MMAgent-R$$^2$$: Learning to Rerank and Reject for Agentic mRAG
+W4416551613,https://doi.org/10.48550/arxiv.2508.00602,LeakSealer: A Semisupervised Defense for LLMs Against Prompt Injection and Leakage Attacks
+W4412817948,https://doi.org/10.1007/978-3-031-97115-0_7,Interactive Disaster Training Scenario Generation System with Large Language Models
+W4411270931,https://doi.org/10.1109/scse65633.2025.11030999,Real-Time Knowledge Retrieval for Banking Chatbots: A RAG-Based Approach to Employee Assistance
+W7153091963,https://doi.org/10.1117/12.3090575,Proactive yield maximization in photolithography via human-in-the-loop AI on an on-premise big data platform
+W7120175064,https://doi.org/10.70112/ajeat-2025.14.2.4327,Improving RAG Accuracy Through Multi-Retrieval Integration and Rank Base Retrieved Chunk Selection
+W4410822669,https://doi.org/10.1609/aaaiss.v5i1.35612,Engineering the Reproducible Literature Review Section for Scholarly Publications and Grant Applications
+W7148315089,https://doi.org/10.2196/preprints.95417,Title: Retrieval‑Augmented Generation Enhanced GPT‑4.1 to Support Clinical Trial Informed Consent Review for Data Reuse (Preprint)
+W7214919493,https://doi.org/10.3389/fpubh.2026.1965655,Evaluating AI chatbots for providing health advice on occupational sedentary behavior in the workplace
+W7206174505,https://doi.org/10.18653/2026.findings-emnlp.557,"Slow to See, Slow to Suppress: Understanding the Effects of Modality in Context-Memory Conflicts"
+W7220452103,https://doi.org/10.1007/978-3-032-39763-8_27,"Generative AI, Agentic AI, MCP, and RAG for Improving Developer Productivity"
+W7125912194,https://doi.org/10.48550/arxiv.2601.19899,Evaluation of Oncotimia: An LLM based system for supporting tumour boards
+W4403511455,https://doi.org/10.1109/iv64223.2024.00063,A Novel LLM Architecture for Intelligent System Configuration
+W7204270122,https://doi.org/10.48550/arxiv.2608.23601,"StateTune: Transforming LLM-Assisted EDA Flow Tuning into a Stateful, Closed-Loop Process"
+W4416016295,https://doi.org/10.2139/ssrn.5719285,BanglaMedQA and BanglaMMedBench: Evaluating Retrieval-Augmented Generation Strategies for Bangla Biomedical Question Answering
+W7161600045,https://doi.org/10.1109/gaiis69281.2026.11519109,A Hybrid Evaluation Architecture for Electronic Components Selection Integrating Large Language Models and Retrieval-Augmented Generation
+W4408735823,https://doi.org/10.1007/978-3-031-86489-6_23,An Approach to Automated Instruction Generation with Grounding Using LLMs and RAG
+W7124445532,https://doi.org/10.48550/arxiv.2601.10215,Topo-RAG: Topology-aware retrieval for hybrid text-table documents
+W4415141977,https://doi.org/10.38177/ajbsr.2025.7312,"ChatGPT and the Future of Generative AI: Architecture, Limitations, and Advancements in Large Language Models"
+W4402670731,https://doi.org/10.18653/v1/2024.findings-acl.82,Uncovering Limitations of Large Language Models in Information Seeking from Tables
+W7167351592,https://doi.org/10.54941/ahfe1008008,Applicability of Generative AI in Learning Systems for Assistive Technology Development Personnel Training
+W4407951442,https://doi.org/10.1109/fie61694.2024.10893146,Enhancing Engineering Education Through LLM-Driven Adaptive Quiz Generation: A RAG-Based Approach
+W7165193904,https://doi.org/10.1016/j.dche.2026.100318,BioMeter and BioManner: Evaluating and enhancing reliability of large language models in bioprocess engineering
+W4408868055,https://doi.org/10.32983/2222-4459-2025-1-367-373,The Strategic Directions for the Use of Artificial Intelligence in the Hotel and Restaurant Business
+W4404341470,https://doi.org/10.48550/arxiv.2410.22056,Retrieval-Augmented Approach for Unsupervised Anomalous Sound Detection and Captioning without Model Training
+W7130902510,,"Right Patient, Right Specialist, Right Time: Retrieval Augmented Generation for Specialty Referral Routing"
+W4412154803,https://doi.org/10.18535/ijecs.v14i06.5163,Architectural Features of Extended Retrieval Generation with External Memory
+W7162250010,https://doi.org/10.5281/zenodo.20365937,AI-Powered Academic Assistant using Retrieval-Augmented Generation and Adaptive Learning
+W4415307582,https://doi.org/10.1109/tkde.2026.3699946,A Comprehensive Survey of Knowledge-Based Visual Question Answering Systems: The Lifecycle of Knowledge in Visual Reasoning Task
+W4387560238,https://doi.org/10.48550/arxiv.2310.05628,Glitter or Gold? Deriving Structured Insights from Sustainability Reports via Large Language Models
+W7167911192,https://doi.org/10.1049/icp.2026.1745,Research on automated review method for UHV project BIM models based on multi-agent collaboration
+W7201850232,https://doi.org/10.24908/pceea.2026.21663,AI Virtual Lab Assistant: Enhancing Undergraduate Biomedical Engineering Laboratory Education via a Customized Generative AI Virtual Teaching Lab Chatbot
+W4411135528,https://doi.org/10.1117/12.3073002,"A retrieval-augmented large language model hybrid framework for adaptive wireless resource allocation: design, simulation, and analysis"
+W7202304024,https://doi.org/10.48550/arxiv.2608.10176,TRACE: Trustworthy Retrieval-Augmented Conversational Engine
+W7168170209,https://doi.org/10.5281/zenodo.21343362,Does Retrieval-Augmented Generation Improve Artificial Intelligence (AI) Writing Quality for health economics and outcomes research (HEOR) environments? A Controlled Multi-Model Assessment Using a Canadian health technology assessment (HTA) Knowledge Layer
+W7213348079,https://doi.org/10.2139/ssrn.7467971,"Measured-Energy Accounting for Adaptive Retrieval-Augmented Generation: GateOverhead, Proxy Reliability, and Index Amortization"
+W7138085284,https://doi.org/10.21606/iasdr.2025.584,Empowering Novice Users with AI: A Conversational Interface for Complex Product Troubleshooting
+W7116698575,https://doi.org/10.1109/mitp.2025.3566740,Generative AI in Government Policy Support: A Case Study of Taiwan STPI
+W7143378995,https://doi.org/10.55592/cilamce2025.v5i.14327,A Comparative Study of Fake News Classification in Brazilian Portuguese using Retrieval-Augmented Generation
+W4414927949,https://doi.org/10.1145/3733813.3764365,Exaggeration-based Fake Cybersecurity News Detection
+W4415958517,https://doi.org/10.48550/arxiv.2510.16715,Right Answer at the Right Time - Temporal Retrieval-Augmented Generation via Graph Summarization
+W7171849254,https://doi.org/10.1504/ijbidm.2026.155249,AI-driven multi-modal legal dispute question and answer system: legal reasoning and evaluation
+W7123282836,https://doi.org/10.48550/arxiv.2601.05648,Open World Knowledge Aided Single-Cell Foundation Model with Robust Cross-Modal Cell-Language Pre-training
+W4416400872,https://doi.org/10.48550/arxiv.2510.07925,Enabling Personalized Long-term Interactions in LLM-based Agents through Persistent Memory and User Profiles
+W4413935170,https://doi.org/10.7734/coseik.2025.38.4.247,Construction of the SAFE Database Specialized for Korean Structural Engineering and Performance Evaluation of a Retrieval Augmented Generation System Using the MAXIM Method
+W7136488998,https://doi.org/10.1145/3789673,Retrieval-augmented Generation of Enhanced Trigger-action Programming Rules in Smart Home
+W4389520529,https://doi.org/10.18653/v1/2023.findings-emnlp.793,Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning
+W4413349545,https://doi.org/10.1109/icde65448.2025.00228,Timestamp Approximate Nearest Neighbor Search Over High-Dimensional Vector Data
+W7204933303,https://doi.org/10.2139/ssrn.7388507,A Bidirectional Hybrid Retrieval-AugmentedFramework for Yakshagana Text Simplificationand Semantic Retrieval
+W7140050697,https://doi.org/10.22266/ijies2026.0430.59,A Procedural-aware Layout Chunking Approach for SOP Question Answering in Retrieval-augmented Generation Pipelines
+W4417268875,https://doi.org/10.18653/v1/2026.findings-acl.849,RAG in the Wild: On the (In)effectiveness of LLMs with Mixture-of-Knowledge Retrieval Augmentation
+W7214023210,https://doi.org/10.21203/rs.3.rs-9879191/v1,OntoCacheRAG: Ontology-Driven Selective Cache Invalidation for Knowledge-Graph-Augmented Retrieval Systems
+W4415345292,,From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM
+W4406917782,https://doi.org/10.36948/ijfmr.2025.v07i01.35767,"Overcoming Context Length Limitations in LLM’s Integrating LSTM, Retrieval-Augmented Generation, and Agentic Frameworks for Enhanced Business Data Analysis"
+W4416124948,https://doi.org/10.1145/3750555.3811900,Practical Poisoning Attacks against Retrieval-Augmented Generation
+W7221335258,https://doi.org/10.2139/ssrn.7593353,An Answerability-Aware Retrieval-Augmented Generation Framework for Hallucination Reduction in Technical Documentation
+W7125141789,https://doi.org/10.1109/asew67777.2025.00021,Leveraging Large Language Models for Cybersecurity Risk Assessment - A Case from Forestry Cyber-Physical Systems
+W7127895850,https://doi.org/10.26262/heal.auth.ir.368946,Vulnerability Detection in Smart Contracts using Large Language Models
+W7129470758,https://doi.org/10.1109/punecon67554.2025.11379080,A Hybrid AI-Driven Framework for Personalized Interview Preparation with Adaptive Learning and Multimodal Confidence Assessment
+W7119032205,https://doi.org/10.1145/3783669.3783745,Question Answering System Based on Retrieval-augmented Generation
+W7167047980,https://doi.org/10.48550/arxiv.2607.00768,RACORN-1: Adaptive Recall-Preserving Speedup for Low-Selectivity Filtered Vector Search
+W4407370588,https://doi.org/10.1021/acs.analchem.4c06677,ChatExosome: An Artificial Intelligence (AI) Agent Based on Deep Learning of Exosomes Spectroscopy for Hepatocellular Carcinoma (HCC) Diagnosis
+W7117468913,https://doi.org/10.1080/10447318.2025.2603634,Guiding Generative Storytelling with Knowledge Graphs
+W4416061371,https://doi.org/10.48550/arxiv.2507.05863,KERAG_R: Knowledge-Enhanced Retrieval-Augmented Generation for Recommendation
+W7108083300,https://doi.org/10.28925/2414-0325.2025.1917,PREPARING FUTURE COMPUTER SCIENCE TEACHERS FOR THE INTEGRATION OF ARTIFICIAL INTELLIGENCE INTO THE EDUCATIONAL PROCESS: THE CASE OF A CHATBOT
+W7170427706,https://doi.org/10.3126/ajmr.v2i1.97539,Natural Language Processing-Driven Chatbot for Algorithm Learning: A Retrieval-Augmented Generation Approach using Romanized Nepali and English
+W7201859571,https://doi.org/10.3390/sym18081334,GRAL: A GNN-RAG-LLM Framework for Intelligent Cybersecurity Alert Correlation and Analysis
+W7108655649,https://doi.org/10.5281/zenodo.17818674,Beyond Memorization: Knowledge Graph Enhanced Retrieval-Augmented Generation for Reasoning-Intensive Tasks
+W7165365486,https://doi.org/10.1109/iciice69672.2026.11565213,FedRAG-FT: Drift-Aware Federated Fine-Tuning of Foundation Models for Reliable Retrieval-Augmented Generation
+W7221059439,https://doi.org/10.48550/arxiv.2610.08571,RAG-PIBench: A Leakage-Aware Benchmark for Prompt-Injection Detection in Trustworthy RAG Systems
+W7125581075,https://doi.org/10.1109/iciip68302.2025.11346385,RAG-Assisted Small Language Models for Domain-Level Reasoning
+W4411552185,https://doi.org/10.1109/cscwd64889.2025.11033346,Root Cause Analysis of Power Grid 5G Network Faults Based on Large Language Model
+W4414405271,https://doi.org/10.1109/icctdc64446.2025.11158789,Enhanced Language Generation Capabilities of Mistral 7B Using Quantized Parameter Efficient Fine-Tuning with Lora and Rag
+W7143976277,https://doi.org/10.56977/jicce.2026.24.1.32,Design and Evaluation of a Privacy-Preserving Retrieval-Augmented Generation Framework for Scalable Group Messaging Systems
+W7163923373,https://doi.org/10.48550/arxiv.2606.06758,Diagnosing Evidence Utilization in Long-Context and Retrieval-Augmented Language Models under Matched Evidence Conditions
+W4414359521,https://doi.org/10.24963/ijcai.2025/846,MA-RAG: Automating Role Engineering for RESTful APIs with Multi-Head Attention and Retrieval-Augmented Generation
+W7163335746,https://doi.org/10.1109/ichora69329.2026.11537145,"An Agentic AI-Driven Adaptive Intelligent Tutoring System using Reinforcement Learning, Emotionaware Vision, and RAG-Based Content Generation"
+W4416513990,https://doi.org/10.1109/vcris68011.2025.11250519,UniFuzz: A Unified Fuzzing Framework for Smart Contract Vulnerability Detection with LLMs and Audit Reports
+W7161018802,https://doi.org/10.48550/arxiv.2605.11143,ClinicalBench: Stress-Testing Assertion-Aware Retrieval for Cross-Admission Clinical QA on MIMIC-IV
+W4413814040,https://doi.org/10.3390/analytics5030025,Feedback-Guided Prompt Injection Defense in Retrieval-Augmented Text-to-Cypher Generation
+W7117979176,https://doi.org/10.1007/978-3-032-10728-2_11,DSAɪVE - Dynamic Systematic AI Vector Engine - Literature Review in Multidisciplinary Context
+W7166522321,https://doi.org/10.5281/zenodo.21039846,Vizart: A Multimodal LLM System to Support Visual Learning
+W7220695746,https://doi.org/10.1016/j.datak.2026.102656,DEEPGRAG: Augmenting LLMs with knowledge graphs via GraphRAG and Chain-of-Thought for domain-specific QA
+W7125896370,https://doi.org/10.48550/arxiv.2601.19535,LURE-RAG: Lightweight Utility-driven Reranking for Efficient RAG
+W4415597903,https://doi.org/10.1115/1.4071921,LLM and Knowledge Graph-Based Intelligent Control Framework for Smart Manufacturing
+W4403703650,https://doi.org/10.48550/arxiv.2408.13378,DrugAgent: Reliable Multi-Agent Integration of Conflicting Biomedical Evidence for Drug-Target Interaction Assessment
+W4416156329,https://doi.org/10.48550/arxiv.2508.02073,Large model retrieval enhancement framework for construction site risk identification
+W7160615865,https://doi.org/10.48550/arxiv.2605.05409,Agentic Retrieval-Augmented Generation for Financial Document Question Answering

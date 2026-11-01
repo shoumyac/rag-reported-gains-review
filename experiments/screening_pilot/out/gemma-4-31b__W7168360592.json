@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7168360592", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates a KG-enhanced QA system and compares it against a RAG baseline.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates a KG-enhanced QA system and compares it against a RAG baseline."}, "cost_usd": 0.00013}

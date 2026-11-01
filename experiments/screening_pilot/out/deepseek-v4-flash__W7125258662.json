@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7125258662", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"Not about RAG; uses LLMs but no retrieval-augmented generation.\"}", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "Not about RAG; uses LLMs but no retrieval-augmented generation."}, "cost_usd": 6.369999999999999e-05}

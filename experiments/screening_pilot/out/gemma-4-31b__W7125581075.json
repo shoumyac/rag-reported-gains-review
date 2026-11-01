@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7125581075", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates RAG integration with SLMs using MMLU Pro benchmark experiments.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates RAG integration with SLMs using MMLU Pro benchmark experiments."}, "cost_usd": 0.0001556}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4391125370", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Paper proposes experiments with RAG system for QA extraction.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Paper proposes experiments with RAG system for QA extraction."}, "cost_usd": 4.4772e-05}

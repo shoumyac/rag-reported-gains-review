@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7164456408", "raw": "{\"decision\":\"EXCLUDE\",\"code\":\"E2\",\"reason\":\"Systematic review of LLMs for legal text accessibility; no new RAG experiments.\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Systematic review of LLMs for legal text accessibility; no new RAG experiments."}, "cost_usd": 0.002326}

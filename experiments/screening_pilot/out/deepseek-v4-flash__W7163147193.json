@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7163147193", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates RAG vs SSFR with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates RAG vs SSFR with experiments."}, "cost_usd": 5.8240000000000005e-05}

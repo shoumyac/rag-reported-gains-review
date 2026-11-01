@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7204270122", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates RAG as a baseline in experiments\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates RAG as a baseline in experiments"}, "cost_usd": 7.604999999999999e-05}

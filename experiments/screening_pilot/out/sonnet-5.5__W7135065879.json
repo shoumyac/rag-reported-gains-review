@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7135065879", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Experimentally evaluates LLMs with and without RAG on lung cancer guideline questions.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Experimentally evaluates LLMs with and without RAG on lung cancer guideline questions."}, "cost_usd": 0.002864}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4411113110", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG method for stance detection.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG method for stance detection."}, "cost_usd": 5.4145e-05}

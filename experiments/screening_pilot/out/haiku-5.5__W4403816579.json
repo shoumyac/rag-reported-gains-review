@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4403816579", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates LMs with and without RAG on ENEM text and multimodal data.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates LMs with and without RAG on ENEM text and multimodal data."}, "cost_usd": 0.00011}

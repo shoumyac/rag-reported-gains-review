@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7221335258", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Title proposes a RAG framework for hallucination reduction.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Title proposes a RAG framework for hallucination reduction."}, "cost_usd": 8.340000000000001e-05}

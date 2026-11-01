@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7204910822", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes RAG-based multi-agent framework for cultural reasoning with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes RAG-based multi-agent framework for cultural reasoning with experiments."}, "cost_usd": 4.823e-05}

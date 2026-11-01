@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7169657576", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Proposes and builds a cloud-based RAG system; text-only, a method/system paper, not a survey.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and builds a cloud-based RAG system; text-only, a method/system paper, not a survey."}, "cost_usd": 0.002662}

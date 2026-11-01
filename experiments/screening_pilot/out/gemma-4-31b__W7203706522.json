@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7203706522", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates RAG source disagreement and error detection across multiple models.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates RAG source disagreement and error detection across multiple models."}, "cost_usd": 0.0001506}

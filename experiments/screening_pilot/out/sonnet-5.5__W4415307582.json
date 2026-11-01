@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W4415307582", "raw": "{\"decision\":\"EXCLUDE\",\"code\":\"E2\",\"reason\":\"Survey of KB-VQA methods with no new experiments; also multimodal-focused.\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Survey of KB-VQA methods with no new experiments; also multimodal-focused."}, "cost_usd": 0.002462}

@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7123347456", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates and compares similarity metrics within a RAG pipeline using experiments.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates and compares similarity metrics within a RAG pipeline using experiments."}, "cost_usd": 0.0001398}

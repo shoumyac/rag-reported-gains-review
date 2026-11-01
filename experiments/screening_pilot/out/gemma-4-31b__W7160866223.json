@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7160866223", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and integrates a RAG framework for agricultural advisory.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and integrates a RAG framework for agricultural advisory."}, "cost_usd": 0.00011620000000000002}

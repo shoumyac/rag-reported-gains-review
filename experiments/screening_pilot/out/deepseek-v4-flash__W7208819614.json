@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7208819614", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"Not about RAG; conceptual study on generative AI in KM without RAG experiments.\"}", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "Not about RAG; conceptual study on generative AI in KM without RAG experiments."}, "cost_usd": 6.7522e-05}

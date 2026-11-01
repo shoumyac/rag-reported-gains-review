@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7162250010", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes an Exam Mode using RAG and reports ROUGE-L faithfulness experiments on it.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes an Exam Mode using RAG and reports ROUGE-L faithfulness experiments on it."}, "cost_usd": 0.00022030000000000002}

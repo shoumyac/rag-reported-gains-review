@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4399209566", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"Title suggests an AI agent but unclear if RAG is involved.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "Title suggests an AI agent but unclear if RAG is involved."}, "cost_usd": 3.6491e-05}

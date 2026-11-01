@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7171269786", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Compares and evaluates three different RAG strategies using experimental datasets.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Compares and evaluates three different RAG strategies using experimental datasets."}, "cost_usd": 0.0001594}

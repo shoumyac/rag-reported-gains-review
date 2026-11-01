@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W4414405271", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Proposes hybrid RAG plus fine-tuning on Mistral 7B and compares performance using BLEU/ROUGE.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes hybrid RAG plus fine-tuning on Mistral 7B and compares performance using BLEU/ROUGE."}, "cost_usd": 0.002652}

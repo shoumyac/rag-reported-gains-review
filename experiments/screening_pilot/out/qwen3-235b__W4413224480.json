@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W4413224480", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Describes RAG system with experiments in a simulator\"}\n", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Describes RAG system with experiments in a simulator"}, "cost_usd": 6.768e-05}

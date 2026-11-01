@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4410873894", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates a RAG-based AI teaching assistant with course-specific materials.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates a RAG-based AI teaching assistant with course-specific materials."}, "cost_usd": 0.00015379999999999997}

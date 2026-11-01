@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4391125370", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates code-based models for generating knowledge bases used in RAG systems.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates code-based models for generating knowledge bases used in RAG systems."}, "cost_usd": 0.0001056}

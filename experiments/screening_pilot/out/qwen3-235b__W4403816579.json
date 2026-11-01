@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W4403816579", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Experiments with RAG on ENEM using text-only and multimodal data\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Experiments with RAG on ENEM using text-only and multimodal data"}, "cost_usd": 6.305e-05}

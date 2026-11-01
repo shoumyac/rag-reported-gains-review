@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7171663299", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"Title suggests ontology poisoning, not RAG; no abstract confirms.\"}", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "Title suggests ontology poisoning, not RAG; no abstract confirms."}, "cost_usd": 3.6945999999999995e-05}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7171259292", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"Not about RAG; focuses on governance architecture for LLMs generally.\"}", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "Not about RAG; focuses on governance architecture for LLMs generally."}, "cost_usd": 6.3063e-05}

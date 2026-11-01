@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7220452103", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title alone doesn't show whether RAG experiments are run.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title alone doesn't show whether RAG experiments are run."}, "cost_usd": 0.001536}

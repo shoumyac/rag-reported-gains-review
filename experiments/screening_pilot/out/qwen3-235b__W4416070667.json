@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W4416070667", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"Not about RAG; uses LLMs without retrieval conditioning\"}", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "Not about RAG; uses LLMs without retrieval conditioning"}, "cost_usd": 7.457e-05}

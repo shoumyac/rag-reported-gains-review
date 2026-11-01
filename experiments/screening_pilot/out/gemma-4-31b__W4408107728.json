@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4408107728", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a GraphRAG-based method for sleep staging experiments.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a GraphRAG-based method for sleep staging experiments."}, "cost_usd": 0.0001548}

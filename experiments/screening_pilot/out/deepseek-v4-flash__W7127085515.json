@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7127085515", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG-based system for network remediation.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG-based system for network remediation."}, "cost_usd": 6.042399999999999e-05}

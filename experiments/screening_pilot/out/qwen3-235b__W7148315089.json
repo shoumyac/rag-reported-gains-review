@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7148315089", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates RAG system with GPT-4.1 on ICFs\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates RAG system with GPT-4.1 on ICFs"}, "cost_usd": 9.133e-05}

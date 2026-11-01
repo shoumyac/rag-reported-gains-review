@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7153091963", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes Causal-RAG system for root cause analysis with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes Causal-RAG system for root cause analysis with experiments."}, "cost_usd": 5.7784999999999996e-05}

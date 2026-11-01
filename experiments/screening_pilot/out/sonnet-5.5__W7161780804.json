@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7161780804", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Proposes ClusterRAG, a personalized RAG method, with experiments on the LaMP benchmark.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes ClusterRAG, a personalized RAG method, with experiments on the LaMP benchmark."}, "cost_usd": 0.002336}

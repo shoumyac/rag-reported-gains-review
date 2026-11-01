@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4415597903", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes LKPI, a RAG system using KG retrieval to condition LLM output.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes LKPI, a RAG system using KG retrieval to condition LLM output."}, "cost_usd": 7.125299999999999e-05}

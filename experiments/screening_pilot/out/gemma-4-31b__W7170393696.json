@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7170393696", "raw": "```json\n{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title suggests multimodal RAG, but text-only components are unclear.\"}\n```", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title suggests multimodal RAG, but text-only components are unclear."}, "cost_usd": 8.58e-05}

@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7148654415", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title does not indicate whether a RAG system is used.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title does not indicate whether a RAG system is used."}, "cost_usd": 0.0001272}

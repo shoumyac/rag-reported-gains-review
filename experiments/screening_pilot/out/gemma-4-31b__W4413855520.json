@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4413855520", "raw": "```json\n{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title suggests extraction/validation but RAG status is unclear.\"}\n```", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title suggests extraction/validation but RAG status is unclear."}, "cost_usd": 8.560000000000001e-05}

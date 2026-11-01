@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4411551812", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Paper runs experiments with RAG for drone command classification.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Paper runs experiments with RAG for drone command classification."}, "cost_usd": 5.1506e-05}

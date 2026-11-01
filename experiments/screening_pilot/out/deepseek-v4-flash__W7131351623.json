@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7131351623", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"Title suggests RAG for scientific VQA but no abstract to confirm.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "Title suggests RAG for scientific VQA but no abstract to confirm."}, "cost_usd": 3.7219e-05}

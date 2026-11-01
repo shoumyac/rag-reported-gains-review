@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4411113110", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes RATSD, an LLM+RAG method, with experiments on datasets and baselines.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes RATSD, an LLM+RAG method, with experiments on datasets and baselines."}, "cost_usd": 0.0001189}

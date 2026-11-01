@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4413224480", "raw": "{\n  \"decision\": \"INCLUDE\",\n  \"code\": null,\n  \"reason\": \"Paper proposes RAG-based AI agent for thermodynamic simulations.\"\n}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Paper proposes RAG-based AI agent for thermodynamic simulations."}, "cost_usd": 5.8330999999999994e-05}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7131319509", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG method with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG method with experiments."}, "cost_usd": 5.5509999999999995e-05}

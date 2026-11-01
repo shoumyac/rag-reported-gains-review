@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7221059439", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates RAG prompt-injection detection methods with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates RAG prompt-injection detection methods with experiments."}, "cost_usd": 5.0323e-05}

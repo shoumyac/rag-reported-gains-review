@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4414359521", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG-based method for role engineering.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG-based method for role engineering."}, "cost_usd": 0.0001296}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7166522321", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Describes RAG with retrieval-augmented in-context guidance for SVG generation.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Describes RAG with retrieval-augmented in-context guidance for SVG generation."}, "cost_usd": 5.4145e-05}

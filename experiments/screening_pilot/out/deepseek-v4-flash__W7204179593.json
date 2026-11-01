@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7204179593", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG pipeline for classification.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG pipeline for classification."}, "cost_usd": 5.7147999999999996e-05}

@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W4391125370", "raw": "{\"decision\":\"MAYBE\",\"code\":null,\"reason\":\"QA extraction for a RAG knowledge base; unclear whether any RAG system is actually evaluated.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "QA extraction for a RAG knowledge base; unclear whether any RAG system is actually evaluated."}, "cost_usd": 0.00337}

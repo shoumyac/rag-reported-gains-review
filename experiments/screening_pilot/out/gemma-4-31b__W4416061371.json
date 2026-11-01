@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4416061371", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a GraphRAG method for recommendation tasks.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a GraphRAG method for recommendation tasks."}, "cost_usd": 0.00014920000000000002}

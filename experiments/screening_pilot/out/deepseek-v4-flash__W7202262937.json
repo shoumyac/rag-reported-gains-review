@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7202262937", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Describes a RAG system with retrieval-augmented policy chatbot and experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Describes a RAG system with retrieval-augmented policy chatbot and experiments."}, "cost_usd": 7.1435e-05}

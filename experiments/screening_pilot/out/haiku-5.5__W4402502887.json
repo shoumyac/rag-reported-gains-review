@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4402502887", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a Bayesian chunk-quality method for RAG, which counts as a RAG method.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a Bayesian chunk-quality method for RAG, which counts as a RAG method."}, "cost_usd": 0.0002333}

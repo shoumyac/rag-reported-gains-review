@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W4411135528", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG-LLM framework with experiments\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG-LLM framework with experiments"}, "cost_usd": 7.743000000000001e-05}

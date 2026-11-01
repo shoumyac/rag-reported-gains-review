@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4417268875", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates RAG system effectiveness using a large-scale datastore with experiments.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates RAG system effectiveness using a large-scale datastore with experiments."}, "cost_usd": 0.0001184}

@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W4410822669", "raw": "{\"decision\":\"EXCLUDE\",\"code\":\"E2\",\"reason\":\"Position paper proposing a digital object; no new RAG experiments indicated.\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Position paper proposing a digital object; no new RAG experiments indicated."}, "cost_usd": 0.002016}

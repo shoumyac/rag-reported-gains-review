@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W4414895103", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system for compliance explanations\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system for compliance explanations"}, "cost_usd": 5.9680000000000005e-05}

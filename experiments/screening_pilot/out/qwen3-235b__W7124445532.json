@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7124445532", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG method on hybrid documents\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG method on hybrid documents"}, "cost_usd": 6.562e-05}

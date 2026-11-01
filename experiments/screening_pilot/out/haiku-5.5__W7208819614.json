@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7208819614", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Conceptual theory-building paper with propositions only; no RAG experiments.\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Conceptual theory-building paper with propositions only; no RAG experiments."}, "cost_usd": 0.0002242}

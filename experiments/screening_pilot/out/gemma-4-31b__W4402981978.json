@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4402981978", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"RAG refers to motion control, not language model generation.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "RAG refers to motion control, not language model generation."}, "cost_usd": 0.0001212}

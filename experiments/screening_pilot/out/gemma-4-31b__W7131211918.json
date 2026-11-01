@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7131211918", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a novel query optimization framework for RAG systems.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a novel query optimization framework for RAG systems."}, "cost_usd": 0.0001184}

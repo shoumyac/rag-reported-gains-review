@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4404341470", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E9\", \"reason\": \"Focuses on audio/sound retrieval and captioning (multimodal-only RAG).\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E9", "reason": "Focuses on audio/sound retrieval and captioning (multimodal-only RAG)."}, "cost_usd": 0.0001206}

@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W4415371392", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes RAG with small language models for education\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes RAG with small language models for education"}, "cost_usd": 8.775e-05}

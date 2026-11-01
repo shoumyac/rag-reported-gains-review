@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7170393696", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title describes a RAG system but multimodal scope is unclear.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title describes a RAG system but multimodal scope is unclear."}, "cost_usd": 0.0001952}

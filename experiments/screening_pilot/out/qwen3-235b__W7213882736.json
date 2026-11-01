@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7213882736", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"No language model generation; only retrieval\"}", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "No language model generation; only retrieval"}, "cost_usd": 9.333000000000002e-05}

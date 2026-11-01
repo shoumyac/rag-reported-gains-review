@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4415762705", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"Title suggests domain adaptation but unclear if RAG is involved.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "Title suggests domain adaptation but unclear if RAG is involved."}, "cost_usd": 3.6673e-05}

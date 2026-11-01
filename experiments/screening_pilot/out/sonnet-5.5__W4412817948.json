@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W4412817948", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title alone doesn't indicate whether retrieval-augmented generation is used.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title alone doesn't indicate whether retrieval-augmented generation is used."}, "cost_usd": 0.001582}

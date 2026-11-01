@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7161018802", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates KG-RAG and dense-RAG methods across six LLMs using ClinicalBench.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates KG-RAG and dense-RAG methods across six LLMs using ClinicalBench."}, "cost_usd": 0.00018240000000000004}

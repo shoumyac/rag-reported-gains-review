@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4412154803", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Methodology is based on a review of publications with no new experiments.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Methodology is based on a review of publications with no new experiments."}, "cost_usd": 0.0001406}

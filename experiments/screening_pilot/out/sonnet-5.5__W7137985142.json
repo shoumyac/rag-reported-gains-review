@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7137985142", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Proposes a cache-aided RAG method for multi-hop QA and reports experiments on four datasets.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a cache-aided RAG method for multi-hop QA and reports experiments on four datasets."}, "cost_usd": 0.002434}

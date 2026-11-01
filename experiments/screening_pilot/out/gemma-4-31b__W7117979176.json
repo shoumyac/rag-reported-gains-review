@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7117979176", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Title explicitly states it is a literature review.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Title explicitly states it is a literature review."}, "cost_usd": 8.340000000000001e-05}

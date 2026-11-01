@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7130902510", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Title suggests RAG for referral routing, likely experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Title suggests RAG for referral routing, likely experiments."}, "cost_usd": 3.6127e-05}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7160288422", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates FT-RAG, a new RAG method for table reasoning.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates FT-RAG, a new RAG method for table reasoning."}, "cost_usd": 6.1152e-05}

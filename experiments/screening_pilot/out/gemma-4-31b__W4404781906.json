@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4404781906", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a new context compression method for RAG systems.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a new context compression method for RAG systems."}, "cost_usd": 0.00011400000000000002}

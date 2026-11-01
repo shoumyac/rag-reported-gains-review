@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7204685018", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates and compares different chunking strategies for a RAG system.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates and compares different chunking strategies for a RAG system."}, "cost_usd": 0.0001294}

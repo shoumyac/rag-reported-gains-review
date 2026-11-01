@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7163058635", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes hybrid RAG framework with LLM and evaluates it experimentally on 150 queries.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes hybrid RAG framework with LLM and evaluates it experimentally on 150 queries."}, "cost_usd": 0.0001237}

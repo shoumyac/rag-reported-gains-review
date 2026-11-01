@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7125905149", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Vision paper describing a planned pipeline without new experiments.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Vision paper describing a planned pipeline without new experiments."}, "cost_usd": 0.000116}

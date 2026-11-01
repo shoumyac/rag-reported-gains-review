@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W4408107728", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"No evidence of retrieval at inference time conditioning generator\"}", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "No evidence of retrieval at inference time conditioning generator"}, "cost_usd": 7.759999999999999e-05}

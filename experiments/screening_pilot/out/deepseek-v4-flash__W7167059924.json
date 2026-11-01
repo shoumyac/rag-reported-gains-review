@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7167059924", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"Title suggests retrieval but unclear if RAG system.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "Title suggests retrieval but unclear if RAG system."}, "cost_usd": 3.6491e-05}

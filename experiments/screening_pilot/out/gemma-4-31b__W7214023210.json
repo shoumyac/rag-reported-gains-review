@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7214023210", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG method using knowledge-graph-augmented retrieval.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG method using knowledge-graph-augmented retrieval."}, "cost_usd": 0.0001854}

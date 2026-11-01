@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7170188183", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a new RAG system (VizRAG) with experimental results.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a new RAG system (VizRAG) with experimental results."}, "cost_usd": 0.0001206}

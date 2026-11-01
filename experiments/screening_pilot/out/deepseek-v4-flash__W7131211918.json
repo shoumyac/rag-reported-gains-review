@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7131211918", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a query optimization method for RAG with experiments implied.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a query optimization method for RAG with experiments implied."}, "cost_usd": 5.2415999999999994e-05}

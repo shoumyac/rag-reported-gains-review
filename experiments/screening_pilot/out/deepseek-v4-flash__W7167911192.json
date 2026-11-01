@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7167911192", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes RAG-based automated BIM review method with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes RAG-based automated BIM review method with experiments."}, "cost_usd": 5.6056e-05}

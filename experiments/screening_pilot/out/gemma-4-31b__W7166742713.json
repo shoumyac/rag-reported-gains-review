@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7166742713", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"The paper is a task-oriented review of foundation model applications.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "The paper is a task-oriented review of foundation model applications."}, "cost_usd": 0.0001218}

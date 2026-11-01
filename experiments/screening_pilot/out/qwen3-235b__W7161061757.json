@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7161061757", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Describes RAG pipeline with inference using retrieved documents\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Describes RAG pipeline with inference using retrieved documents"}, "cost_usd": 8.019e-05}

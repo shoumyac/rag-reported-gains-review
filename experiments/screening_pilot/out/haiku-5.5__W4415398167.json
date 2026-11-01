@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4415398167", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes an LLM+RAG method and reports initial experiments on a classification task.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes an LLM+RAG method and reports initial experiments on a classification task."}, "cost_usd": 0.0001599}

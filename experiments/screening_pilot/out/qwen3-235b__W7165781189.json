@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7165781189", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates retrieval-augmented generation as part of context strategies\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates retrieval-augmented generation as part of context strategies"}, "cost_usd": 6.114e-05}

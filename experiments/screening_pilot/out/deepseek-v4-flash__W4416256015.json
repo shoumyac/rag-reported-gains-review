@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4416256015", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes EoK, a RAG-based kernel optimization method with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes EoK, a RAG-based kernel optimization method with experiments."}, "cost_usd": 5.7512e-05}

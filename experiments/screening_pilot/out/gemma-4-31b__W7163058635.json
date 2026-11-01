@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7163058635", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a hybrid RAG framework for traffic forecasting.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a hybrid RAG framework for traffic forecasting."}, "cost_usd": 0.000126}

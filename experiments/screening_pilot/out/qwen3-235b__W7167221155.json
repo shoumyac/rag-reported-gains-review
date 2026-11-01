@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7167221155", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates Hypic for hybrid-attention RAG systems\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates Hypic for hybrid-attention RAG systems"}, "cost_usd": 7.797e-05}

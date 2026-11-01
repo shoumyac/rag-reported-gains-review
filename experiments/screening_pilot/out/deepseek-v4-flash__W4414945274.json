@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4414945274", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes REVEAL, a visual RAG method with experiments on synthetic image detection.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes REVEAL, a visual RAG method with experiments on synthetic image detection."}, "cost_usd": 6.3791e-05}

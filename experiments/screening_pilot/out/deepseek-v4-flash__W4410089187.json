@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4410089187", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG method for conversational recommendations.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG method for conversational recommendations."}, "cost_usd": 5.4509e-05}

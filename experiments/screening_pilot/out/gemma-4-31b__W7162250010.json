@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7162250010", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates a RAG-based Exam Mode using ROUGE-L faithfulness metrics.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates a RAG-based Exam Mode using ROUGE-L faithfulness metrics."}, "cost_usd": 0.0001794}

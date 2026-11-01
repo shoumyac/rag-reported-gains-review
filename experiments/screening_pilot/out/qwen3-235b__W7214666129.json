@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7214666129", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Describes a workflow using RAG as a category, not experimenting with RAG itself\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Describes a workflow using RAG as a category, not experimenting with RAG itself"}, "cost_usd": 9.091e-05}

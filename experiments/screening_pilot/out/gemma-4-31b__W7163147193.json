@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7163147193", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Compares RAG with SSFR across multiple models and corpus sizes using experiments.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Compares RAG with SSFR across multiple models and corpus sizes using experiments."}, "cost_usd": 0.0001338}

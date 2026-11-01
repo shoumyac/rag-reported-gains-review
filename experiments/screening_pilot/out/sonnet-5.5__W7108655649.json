@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7108655649", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Proposes KG-RAG framework and reports experiments against RAG baselines on reasoning tasks.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes KG-RAG framework and reports experiments against RAG baselines on reasoning tasks."}, "cost_usd": 0.002472}

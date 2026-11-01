@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7131092105", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Describes developing a RAG-augmented chatbot for audit knowledge retrieval.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Describes developing a RAG-augmented chatbot for audit knowledge retrieval."}, "cost_usd": 4.7866e-05}

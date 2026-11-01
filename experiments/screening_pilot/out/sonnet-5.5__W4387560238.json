@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W4387560238", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Applies LLMs with RAG to extract ESG insights from reports; uses a RAG system in experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Applies LLMs with RAG to extract ESG insights from reports; uses a RAG system in experiments."}, "cost_usd": 0.002632}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7202304024", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system for constraint-aware recommendations.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system for constraint-aware recommendations."}, "cost_usd": 5.642e-05}

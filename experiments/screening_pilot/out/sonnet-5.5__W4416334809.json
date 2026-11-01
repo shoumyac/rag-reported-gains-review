@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W4416334809", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Builds a RAG-based failure query model and runs comparative experiments across models.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Builds a RAG-based failure query model and runs comparative experiments across models."}, "cost_usd": 0.002226}

@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7148315089", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Evaluates a GPT-4.1 RAG-based system on 438 and 488 consent forms with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates a GPT-4.1 RAG-based system on 438 and 488 consent forms with experiments."}, "cost_usd": 0.003276}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7161061757", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes Aegis with a RAG pipeline for medical triage.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes Aegis with a RAG pipeline for medical triage."}, "cost_usd": 7.1344e-05}

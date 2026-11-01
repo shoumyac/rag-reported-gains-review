@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7166742713", "raw": "{\"decision\":\"EXCLUDE\",\"code\":\"E2\",\"reason\":\"Review paper on foundation models in water systems; RAG only mentioned, no new experiments.\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Review paper on foundation models in water systems; RAG only mentioned, no new experiments."}, "cost_usd": 0.002302}

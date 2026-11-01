@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7220329942", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG-based tutor system\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG-based tutor system"}, "cost_usd": 7.371000000000001e-05}

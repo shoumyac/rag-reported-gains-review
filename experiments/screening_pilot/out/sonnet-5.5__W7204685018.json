@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7204685018", "raw": "{\"decision\":\"INCLUDE\",\"code\":null,\"reason\":\"Empirically evaluates chunking strategies in a text RAG pipeline with answer-quality metrics.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Empirically evaluates chunking strategies in a text RAG pipeline with answer-quality metrics."}, "cost_usd": 0.002476}

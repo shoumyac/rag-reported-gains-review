@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7160288422", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG framework for table reasoning\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG framework for table reasoning"}, "cost_usd": 7.065999999999999e-05}

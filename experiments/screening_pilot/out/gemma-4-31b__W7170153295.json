@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7170153295", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a platform for comparing and debugging graph RAG methods.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a platform for comparing and debugging graph RAG methods."}, "cost_usd": 0.0001264}

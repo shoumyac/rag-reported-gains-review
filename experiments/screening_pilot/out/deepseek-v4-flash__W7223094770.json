@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7223094770", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Survey/review with no new experiments of a RAG method.\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Survey/review with no new experiments of a RAG method."}, "cost_usd": 6.433699999999999e-05}

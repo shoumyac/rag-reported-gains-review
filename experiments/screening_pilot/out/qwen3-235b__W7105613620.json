@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7105613620", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates retrieval-augmented prompts in a RAG system\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates retrieval-augmented prompts in a RAG system"}, "cost_usd": 7.608e-05}

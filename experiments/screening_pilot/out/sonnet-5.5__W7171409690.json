@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7171409690", "raw": "{\"decision\":\"EXCLUDE\",\"code\":\"E2\",\"reason\":\"Overview/survey of LLMs in cold-start push systems; no new RAG experiments indicated.\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Overview/survey of LLMs in cold-start push systems; no new RAG experiments indicated."}, "cost_usd": 0.002338}

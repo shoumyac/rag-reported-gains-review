@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4413169881", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"This is a systematic review and meta-analysis of other studies.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "This is a systematic review and meta-analysis of other studies."}, "cost_usd": 0.0002064}

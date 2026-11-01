@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4390690456", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates LLM agents with RAG versus without, with experiments on clinical cases.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates LLM agents with RAG versus without, with experiments on clinical cases."}, "cost_usd": 0.0001261}

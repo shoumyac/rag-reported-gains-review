@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4414927949", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes an LLM+RAG framework for exaggeration scoring, with human-study validation.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes an LLM+RAG framework for exaggeration scoring, with human-study validation."}, "cost_usd": 0.0001375}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4414990986", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes RAG system with LLM and retrieval from constructed KG.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes RAG system with LLM and retrieval from constructed KG."}, "cost_usd": 5.7784999999999996e-05}

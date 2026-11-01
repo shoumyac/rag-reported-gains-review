@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7164036702", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes an LLM agent using RAG for design, with experiments reporting accuracy gains.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes an LLM agent using RAG for design, with experiments reporting accuracy gains."}, "cost_usd": 0.0001757}

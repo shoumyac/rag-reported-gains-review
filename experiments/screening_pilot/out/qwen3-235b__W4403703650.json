@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W4403703650", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates a multi-agent system with RAG for DTI assessment\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates a multi-agent system with RAG for DTI assessment"}, "cost_usd": 7.555e-05}

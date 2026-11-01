@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7138866100", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a PII-safe RAG system with experiments against baselines.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a PII-safe RAG system with experiments against baselines."}, "cost_usd": 0.0001259}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7160105817", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a RAG system for legal document Q&A with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a RAG system for legal document Q&A with experiments."}, "cost_usd": 6.3609e-05}

@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7159600006", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG-based agent for disease severity classification.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG-based agent for disease severity classification."}, "cost_usd": 0.0001632}

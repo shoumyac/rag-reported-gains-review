@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4416256015", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes EoK method using RAG with RISC-V context; reports experiments on 80 kernel tasks.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes EoK method using RAG with RISC-V context; reports experiments on 80 kernel tasks."}, "cost_usd": 0.0001238}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4412154803", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"The abstract describes a review of publications, not new experiments.\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "The abstract describes a review of publications, not new experiments."}, "cost_usd": 6.097e-05}

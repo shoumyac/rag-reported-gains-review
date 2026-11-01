@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7117931843", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"Title suggests a RAG application, but abstract reads like a review; experiments unclear.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "Title suggests a RAG application, but abstract reads like a review; experiments unclear."}, "cost_usd": 0.0002243}

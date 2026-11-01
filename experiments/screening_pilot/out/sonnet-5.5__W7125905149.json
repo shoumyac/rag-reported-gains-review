@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7125905149", "raw": "{\"decision\":\"EXCLUDE\",\"code\":\"E2\",\"reason\":\"Vision paper with planned work; no RAG experiments reported.\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Vision paper with planned work; no RAG experiments reported."}, "cost_usd": 0.002174}

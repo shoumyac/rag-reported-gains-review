@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4402502887", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a Bayesian method to improve RAG quality with experiments implied.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a Bayesian method to improve RAG quality with experiments implied."}, "cost_usd": 6.3518e-05}

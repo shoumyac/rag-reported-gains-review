@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7163195308", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a GraphRAG-based framework for traceability link recovery.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a GraphRAG-based framework for traceability link recovery."}, "cost_usd": 0.0001428}

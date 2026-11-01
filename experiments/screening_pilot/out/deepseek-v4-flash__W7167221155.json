@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7167221155", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes Hypic, a RAG system accelerating hybrid-attention LLM serving with caching.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes Hypic, a RAG system accelerating hybrid-attention LLM serving with caching."}, "cost_usd": 6.8796e-05}

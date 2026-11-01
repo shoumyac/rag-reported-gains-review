@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7151081630", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"Discusses RAG as a future direction, but no experiments with a RAG system.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "Discusses RAG as a future direction, but no experiments with a RAG system."}, "cost_usd": 0.0001392}

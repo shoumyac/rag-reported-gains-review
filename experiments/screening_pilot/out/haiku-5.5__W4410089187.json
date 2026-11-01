@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4410089187", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes CRAG, an LLM-based RAG method with CF retrieval, and evaluates it experimentally.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes CRAG, an LLM-based RAG method with CF retrieval, and evaluates it experimentally."}, "cost_usd": 0.0001655}

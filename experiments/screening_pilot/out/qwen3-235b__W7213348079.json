@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7213348079", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title mentions RAG but unclear if experiments are run\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title mentions RAG but unclear if experiments are run"}, "cost_usd": 4.8740000000000004e-05}

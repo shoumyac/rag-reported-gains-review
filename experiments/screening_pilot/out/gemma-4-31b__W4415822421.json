@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4415822421", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG approach for personality-driven robot conversations.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG approach for personality-driven robot conversations."}, "cost_usd": 0.000129}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4407404839", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system for shipbuilding process design.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system for shipbuilding process design."}, "cost_usd": 5.214299999999999e-05}

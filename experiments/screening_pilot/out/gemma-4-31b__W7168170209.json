@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7168170209", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates RAG performance across multiple LLMs for HEOR writing quality.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates RAG performance across multiple LLMs for HEOR writing quality."}, "cost_usd": 0.00031720000000000007}

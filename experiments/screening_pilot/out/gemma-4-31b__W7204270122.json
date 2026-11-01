@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7204270122", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Compares proposed method against a RAG baseline in experiments.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Compares proposed method against a RAG baseline in experiments."}, "cost_usd": 0.0001486}

@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W4387969743", "raw": "{\"decision\":\"EXCLUDE\",\"code\":\"E9\",\"reason\":\"Multimodal-only RAG: retrieves image-text pairs for biomedical visual question answering.\"}", "parsed": {"decision": "EXCLUDE", "code": "E9", "reason": "Multimodal-only RAG: retrieves image-text pairs for biomedical visual question answering."}, "cost_usd": 0.0026}

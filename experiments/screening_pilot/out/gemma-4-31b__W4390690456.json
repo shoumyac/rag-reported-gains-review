@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4390690456", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates RAG performance and guideline adherence using real-world clinical cases.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates RAG performance and guideline adherence using real-world clinical cases."}, "cost_usd": 0.000133}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7170188183", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a novel RAG method with hypergraph visualization.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a novel RAG method with hypergraph visualization."}, "cost_usd": 5.1961e-05}

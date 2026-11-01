@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7134895601", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Integrates RAG to ground responses in metadata and evaluates performance.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Integrates RAG to ground responses in metadata and evaluates performance."}, "cost_usd": 0.0001312}

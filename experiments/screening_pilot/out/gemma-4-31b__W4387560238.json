@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4387560238", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Employs RAG paradigm to extract structured insights from sustainability reports.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Employs RAG paradigm to extract structured insights from sustainability reports."}, "cost_usd": 0.0001374}

@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7135065879", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates RAG performance on lung cancer questions compared to baseline LLMs.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates RAG performance on lung cancer questions compared to baseline LLMs."}, "cost_usd": 0.0001594}

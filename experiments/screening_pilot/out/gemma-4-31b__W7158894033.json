@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7158894033", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E9\", \"reason\": \"Multimodal architecture focusing on text, voice, and image inputs.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E9", "reason": "Multimodal architecture focusing on text, voice, and image inputs."}, "cost_usd": 0.00011800000000000001}

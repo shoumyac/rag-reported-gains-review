@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4414192940", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Paper evaluates RAG impact on LLM accuracy in experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Paper evaluates RAG impact on LLM accuracy in experiments."}, "cost_usd": 8.9544e-05}

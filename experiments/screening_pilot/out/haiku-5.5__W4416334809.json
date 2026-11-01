@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4416334809", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Builds a RAG root-cause query model and compares two LLMs in experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Builds a RAG root-cause query model and compares two LLMs in experiments."}, "cost_usd": 0.0001498}

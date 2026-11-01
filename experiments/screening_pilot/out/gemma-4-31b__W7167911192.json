@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7167911192", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG-based system for BIM model review experiments.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG-based system for BIM model review experiments."}, "cost_usd": 0.0001298}

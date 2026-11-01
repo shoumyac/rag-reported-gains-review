@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7163923373", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates and compares RAG systems against long-context and oracle conditions.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates and compares RAG systems against long-context and oracle conditions."}, "cost_usd": 0.0001522}

@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7167059924", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title describes distributed retrieval without mentioning a generator or RAG.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title describes distributed retrieval without mentioning a generator or RAG."}, "cost_usd": 0.0001538}

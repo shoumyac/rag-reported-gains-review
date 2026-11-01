@@ -1,0 +1,1 @@
+{"model": "sonnet-5.5", "id": "W7163214708", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title suggests a RAG-informed LLM framework, but experiments are unconfirmed.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title suggests a RAG-informed LLM framework, but experiments are unconfirmed."}, "cost_usd": 0.001704}

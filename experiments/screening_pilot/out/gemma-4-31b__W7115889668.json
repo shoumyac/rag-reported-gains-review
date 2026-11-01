@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7115889668", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"Explicitly distinguishes METACORE from RAG systems; not a RAG system.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "Explicitly distinguishes METACORE from RAG systems; not a RAG system."}, "cost_usd": 0.00011520000000000002}

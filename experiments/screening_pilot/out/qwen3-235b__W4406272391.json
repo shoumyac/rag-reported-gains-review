@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W4406272391", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E9\", \"reason\": \"Multimodal-only RAG framework\"}", "parsed": {"decision": "EXCLUDE", "code": "E9", "reason": "Multimodal-only RAG framework"}, "cost_usd": 6.615000000000001e-05}

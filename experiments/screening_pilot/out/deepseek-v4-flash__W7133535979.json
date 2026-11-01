@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7133535979", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a RAG system for PDF QA with experiments showing performance.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a RAG system for PDF QA with experiments showing performance."}, "cost_usd": 5.6328999999999996e-05}

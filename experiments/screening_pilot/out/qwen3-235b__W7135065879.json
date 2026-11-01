@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7135065879", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates RAG system with LLMs on clinical questions\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates RAG system with LLMs on clinical questions"}, "cost_usd": 8.103e-05}

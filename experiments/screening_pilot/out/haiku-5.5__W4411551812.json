@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4411551812", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Dataset paper, but benchmarks LLaMa2/LLaMa3 with a RAG approach versus fine-tuning.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Dataset paper, but benchmarks LLaMa2/LLaMa3 with a RAG approach versus fine-tuning."}, "cost_usd": 0.0001819}

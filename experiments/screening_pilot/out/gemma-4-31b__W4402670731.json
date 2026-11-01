@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4402670731", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Introduces a benchmark and evaluates LLMs; no new RAG method proposed/tested.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Introduces a benchmark and evaluates LLMs; no new RAG method proposed/tested."}, "cost_usd": 0.000132}

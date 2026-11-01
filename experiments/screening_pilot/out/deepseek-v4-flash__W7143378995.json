@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7143378995", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a supervised RAG pipeline for fake news classification.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a supervised RAG pipeline for fake news classification."}, "cost_usd": 4.9049e-05}

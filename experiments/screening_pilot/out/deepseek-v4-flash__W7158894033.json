@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7158894033", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E9\", \"reason\": \"Multimodal inputs (text, voice, image) indicate multimodal-only RAG.\"}", "parsed": {"decision": "EXCLUDE", "code": "E9", "reason": "Multimodal inputs (text, voice, image) indicate multimodal-only RAG."}, "cost_usd": 5.2598e-05}

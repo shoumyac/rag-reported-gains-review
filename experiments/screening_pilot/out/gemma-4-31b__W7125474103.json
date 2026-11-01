@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7125474103", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Runs experiments evaluating a failure mode in hybrid RAG systems.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Runs experiments evaluating a failure mode in hybrid RAG systems."}, "cost_usd": 0.0001332}

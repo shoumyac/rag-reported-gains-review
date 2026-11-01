@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W4417268875", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates RAG systems with mixture-of-knowledge retrieval\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates RAG systems with mixture-of-knowledge retrieval"}, "cost_usd": 6.0950000000000004e-05}

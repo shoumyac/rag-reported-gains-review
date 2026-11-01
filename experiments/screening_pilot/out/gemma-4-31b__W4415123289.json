@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4415123289", "raw": "```json\n{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title suggests RL for driving, RAG status unclear.\"}\n```", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title suggests RL for driving, RAG status unclear."}, "cost_usd": 8.52e-05}

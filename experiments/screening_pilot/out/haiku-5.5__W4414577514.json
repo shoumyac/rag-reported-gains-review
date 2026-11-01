@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W4414577514", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes a framework with a RAG mechanism and reports experiments on it\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes a framework with a RAG mechanism and reports experiments on it"}, "cost_usd": 0.0001702}

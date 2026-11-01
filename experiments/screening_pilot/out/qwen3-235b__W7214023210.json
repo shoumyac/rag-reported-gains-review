@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7214023210", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates a RAG system with knowledge-graph retrieval\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates a RAG system with knowledge-graph retrieval"}, "cost_usd": 9.136e-05}

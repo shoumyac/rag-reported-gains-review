@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7203833294", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates RAG in LLM for misconfiguration detection\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates RAG in LLM for misconfiguration detection"}, "cost_usd": 7.544e-05}

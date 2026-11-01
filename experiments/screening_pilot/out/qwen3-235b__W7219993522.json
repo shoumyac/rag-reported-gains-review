@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7219993522", "raw": "{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"Position paper on system design, no RAG experiments\"}", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "Position paper on system design, no RAG experiments"}, "cost_usd": 7.131e-05}

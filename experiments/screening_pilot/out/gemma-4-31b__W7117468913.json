@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7117468913", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a KG-based RAG pipeline for storytelling via user study.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a KG-based RAG pipeline for storytelling via user study."}, "cost_usd": 0.0001236}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4411160471", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and experiments with a RAG system for air pollution analysis.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and experiments with a RAG system for air pollution analysis."}, "cost_usd": 4.9595e-05}

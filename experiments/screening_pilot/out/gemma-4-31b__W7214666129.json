@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7214666129", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E1\", \"reason\": \"Paper uses AI to conduct a review; it does not experiment with RAG methods.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E1", "reason": "Paper uses AI to conduct a review; it does not experiment with RAG methods."}, "cost_usd": 0.00017580000000000002}

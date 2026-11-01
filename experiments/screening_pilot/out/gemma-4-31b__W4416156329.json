@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4416156329", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG framework for construction site risk identification.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG framework for construction site risk identification."}, "cost_usd": 0.0001224}

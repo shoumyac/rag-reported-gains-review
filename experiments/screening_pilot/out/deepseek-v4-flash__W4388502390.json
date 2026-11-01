@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4388502390", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a retrieve-and-edit RAG method for assertion generation.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a retrieve-and-edit RAG method for assertion generation."}, "cost_usd": 7.2254e-05}

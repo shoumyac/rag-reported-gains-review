@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7214972725", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"No abstract; title is a general LLM survey with 'empirical analysis', RAG relevance unclear.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "No abstract; title is a general LLM survey with 'empirical analysis', RAG relevance unclear."}, "cost_usd": 0.0001744}

@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7167221155", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a system to accelerate RAG and agentic LLM serving.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a system to accelerate RAG and agentic LLM serving."}, "cost_usd": 0.0001564}

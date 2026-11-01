@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7204478321", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates an edge RAG system for construction knowledge.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates an edge RAG system for construction knowledge."}, "cost_usd": 5.614699999999999e-05}

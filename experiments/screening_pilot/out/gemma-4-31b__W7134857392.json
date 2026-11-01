@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7134857392", "raw": "```json\n{\"decision\": \"EXCLUDE\", \"code\": \"E2\", \"reason\": \"The paper is explicitly described as a survey.\"}\n```", "parsed": {"decision": "EXCLUDE", "code": "E2", "reason": "The paper is explicitly described as a survey."}, "cost_usd": 0.00014240000000000002}

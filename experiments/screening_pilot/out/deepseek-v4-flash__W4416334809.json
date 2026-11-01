@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4416334809", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG-based query model for equipment failures.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG-based query model for equipment failures."}, "cost_usd": 5.3507999999999997e-05}

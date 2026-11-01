@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7223807052", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG system for Serbian military documentation.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG system for Serbian military documentation."}, "cost_usd": 0.0001394}

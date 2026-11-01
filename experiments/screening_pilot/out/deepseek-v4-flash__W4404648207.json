@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4404648207", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes NEON framework for RAG with LLMs using retrieved news entity interactions.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes NEON framework for RAG with LLMs using retrieved news entity interactions."}, "cost_usd": 5.8513e-05}

@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4402502887", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a Bayesian approach to improve RAG system quality.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a Bayesian approach to improve RAG system quality."}, "cost_usd": 0.00014240000000000002}

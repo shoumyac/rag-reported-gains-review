@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4415345292", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates Uni-RAG, a multi-modal RAG system with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates Uni-RAG, a multi-modal RAG system with experiments."}, "cost_usd": 6.342699999999999e-05}

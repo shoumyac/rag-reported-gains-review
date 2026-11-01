@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4411270931", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and optimizes a RAG-based chatbot for banking domain knowledge.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and optimizes a RAG-based chatbot for banking domain knowledge."}, "cost_usd": 0.0001338}

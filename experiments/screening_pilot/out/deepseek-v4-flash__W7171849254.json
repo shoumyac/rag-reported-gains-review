@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7171849254", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes CKLQ system with RAG baseline comparison and experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes CKLQ system with RAG baseline comparison and experiments."}, "cost_usd": 5.4236e-05}

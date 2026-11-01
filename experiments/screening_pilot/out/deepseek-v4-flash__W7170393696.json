@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7170393696", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"Title suggests multimodal RAG; no abstract to confirm text-only scope.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "Title suggests multimodal RAG; no abstract to confirm text-only scope."}, "cost_usd": 3.6855000000000005e-05}

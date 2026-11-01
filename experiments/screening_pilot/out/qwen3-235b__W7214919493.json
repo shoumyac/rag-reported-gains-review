@@ -1,0 +1,1 @@
+{"model": "qwen3-235b", "id": "W7214919493", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates a retrieval-augmented chatbot system\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates a retrieval-augmented chatbot system"}, "cost_usd": 8.604999999999999e-05}

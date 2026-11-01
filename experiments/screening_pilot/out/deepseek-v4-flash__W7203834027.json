@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W7203834027", "raw": "{\"decision\": \"MAYBE\", \"code\": null, \"reason\": \"Title suggests RAG evaluation but no abstract to confirm experiments.\"}", "parsed": {"decision": "MAYBE", "code": null, "reason": "Title suggests RAG evaluation but no abstract to confirm experiments."}, "cost_usd": 3.6581999999999996e-05}

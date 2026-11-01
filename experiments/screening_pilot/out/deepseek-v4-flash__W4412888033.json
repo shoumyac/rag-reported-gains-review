@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-flash", "id": "W4412888033", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes RISE, a RAG framework for MHQA with experiments.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes RISE, a RAG framework for MHQA with experiments."}, "cost_usd": 5.5965e-05}

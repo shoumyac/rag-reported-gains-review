@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W7125258662", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Evaluates a system and compares it against RAG-based approaches.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Evaluates a system and compares it against RAG-based approaches."}, "cost_usd": 0.00014560000000000002}

@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4414927949", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a RAG framework for detecting exaggeration in tweets.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a RAG framework for detecting exaggeration in tweets."}, "cost_usd": 9.800000000000001e-05}

@@ -1,0 +1,1 @@
+{"model": "gemma-4-31b", "id": "W4412888816", "raw": "```json\n{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a new knowledge filtering framework for RAG systems.\"}\n```", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a new knowledge filtering framework for RAG systems."}, "cost_usd": 0.00011420000000000001}

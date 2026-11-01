@@ -1,0 +1,1 @@
+{"model": "haiku-5.5", "id": "W7223807052", "raw": "{\"decision\": \"INCLUDE\", \"code\": null, \"reason\": \"Proposes and evaluates a BM25 plus Gemma 3 RAG system with experiments on a corpus.\"}", "parsed": {"decision": "INCLUDE", "code": null, "reason": "Proposes and evaluates a BM25 plus Gemma 3 RAG system with experiments on a corpus."}, "cost_usd": 0.000129}
