@@ -60,3 +60,12 @@ If the two models disagree, or the human corrects a value, the human decides fro
 ## 7. Privacy and credit
 
 Only paper data and initials of verifiers are recorded. Annotators are acknowledged with their consent.
+
+
+## Which comparisons to extract (added 1 November 2026, deviation D2)
+
+Added before extraction started, after the model pilot (`experiments/model_pilot/`). Models given only "list the main comparisons" chose different baselines, so their agreement could not reach the registered target.
+
+1. Use the main results table(s): the table(s) holding the proposed method's headline results on task benchmarks, at most two. Ignore ablations, analyses, appendices, cost or speed tables, and metrics that are not task quality (for example citation precision, latency, number of steps).
+2. For each benchmark-and-metric column and the proposed method's main row (the first row marked as the authors' own), extract one comparison against the no-retrieval row and one against the vanilla RAG row, each closest in generator to the proposed method. If a row does not exist, extract nothing for it.
+3. Every value carries a one-line exact quote of the table row it came from.

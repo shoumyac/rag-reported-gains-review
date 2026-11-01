@@ -33,3 +33,20 @@ A random sample of 12 rows (6 Haiku, 6 DeepSeek) was checked against the source 
 Proposed pair for extraction: Claude Haiku 5.5 and DeepSeek V4 Flash (different families, as registered), with Sonnet 5.5 only as arbiter where they disagree. DeepSeek needs a stricter quoting instruction and a retry on quotes that are not found. Gemma, Qwen and GPT-OSS are not adopted for extraction on this evidence.
 
 Not yet tested: the 95% agreement target on a fixed set of comparisons, and screening.
+
+## Round 2: with a fixed selection rule (deviation D2)
+
+Same ten papers, Haiku 5.5 and DeepSeek V4 Flash, prompt `PROMPT_V2` in `extract_pilot.py` (run with `PILOT_VERSION=v2`; outputs in `out_v2/`; numbers from `python3 evaluate_v2.py`). The first DeepSeek run returned nothing because its hidden reasoning used up the token limit; reasoning was switched off and the runs repeated. Cost of round 2: about USD 0.15 in total.
+
+| Check | Haiku 5.5 | DeepSeek V4 Flash |
+|---|---|---|
+| Comparisons extracted | 164 | 207 |
+| Both quotes found in the paper | 100% | 97.6% |
+| Both scores inside their quotes | 94.5% | 100% |
+| All four automatic checks pass | 94.5% | 97.6% |
+
+Agreement between the two models: they filled the same slot (same method cell and comparator type) in 124 cases, and gave the same comparator score in 105 of them (84.7%). This is below the registered 95% target. Exact pairs of scores overlap with Jaccard 0.45, up from about 0.3 in round 1.
+
+Why they differ: almost always baseline-row ambiguity, not misread numbers. Examples: "Top 5 documents" versus "Top 1 document" as the vanilla RAG row (RECOMP), Llama2 7B with retrieval versus Alpaca 7B (Self-RAG), different generator sizes as the no-retrieval row. Both models took the numbers correctly from the rows they chose.
+
+Proposed next step (not yet done): extract the whole main results table verbatim (every row and column, one-line quotes) so the models must agree on cell values, then label row types (no retrieval, vanilla RAG, prior method) in a separate step that humans check, and build comparisons by script.

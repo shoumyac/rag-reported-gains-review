@@ -31,6 +31,28 @@ Return only a JSON list, no other text.
 
 PAPER TEXT:
 """
+PROMPT_V2 = """You are extracting data from one research paper about retrieval-augmented generation (RAG). Use only what the paper states. Never use memory or other papers.
+
+SELECTION RULE (follow exactly, it decides which rows you output):
+1. Find the main results table(s): the table(s) holding the proposed method's headline results on the paper's task benchmarks (at most two tables). Ignore ablations, analyses, appendices, cost or speed tables and metrics that are not task quality (for example citation precision, latency, number of steps).
+2. For every benchmark-and-metric column of those tables, and for the proposed method's main row (the row marked as ours; if several variants are marked, use the first one listed), output at most two comparisons:
+   (a) versus the "no_retrieval" row: the closest row that uses the same or the smallest-gap generator without retrieval;
+   (b) versus the "vanilla_rag" row: the closest row that uses the same or the smallest-gap generator with standard retrieve-then-read retrieval and no special method.
+3. If no such row exists in the table, output nothing for that case. Do not use other comparator types. Output at most 24 rows.
+
+For each comparison return an object with keys:
+ benchmark, metric, method_name, method_score, comparator_name, comparator_type, comparator_score, page, method_quote, comparator_quote
+Rules:
+- Scores are numbers exactly as printed (no conversion, no rounding). Write null if not reported. Never guess.
+- method_quote and comparator_quote: copy ONE single line of the paper text, character by character, from the row that holds the score (a whole table row is fine, at most 25 words). Do not fix spacing, do not replace symbols, do not paraphrase.
+- page: the number in the [PAGE n] marker before the quote.
+Return only a JSON list, no other text.
+
+PAPER TEXT:
+"""
+VERSION = os.environ.get("PILOT_VERSION", "v1")
+OUT = "out" if VERSION == "v1" else "out_" + VERSION
+os.makedirs(f"{HERE}/{OUT}", exist_ok=True)
 def paper_text(pid):
     raw = open(f"{HERE}/papers/{pid}.txt", encoding="utf-8", errors="ignore").read()
     return "".join(f"\n[PAGE {i+1}]\n{p}" for i, p in enumerate(raw.split("\f")))
@@ -48,20 +70,20 @@ def post(url, headers, body, tries=3):
     return {"error": err}
 def call(model, pid):
     prov, mid, pin, pout = MODELS[model]
-    prompt = PROMPT + paper_text(pid)
+    prompt = (PROMPT if VERSION == "v1" else PROMPT_V2) + paper_text(pid)
     if prov == "anthropic":
         d = post("https://api.anthropic.com/v1/messages", {"x-api-key": os.environ["ANTHROPIC_API_KEY"], "anthropic-version": "2023-06-01", "content-type": "application/json"},
-                 {"model": mid, "max_tokens": 8000, "messages": [{"role": "user", "content": prompt}]})
+                 {"model": mid, "max_tokens": 16000, "messages": [{"role": "user", "content": prompt}]})
         if "error" in d: return {"error": d["error"]}
         return {"text": "".join(b.get("text", "") for b in d["content"] if b.get("type") == "text"), "tin": d["usage"]["input_tokens"], "tout": d["usage"]["output_tokens"]}
     d = post("https://openrouter.ai/api/v1/chat/completions", {"Authorization": "Bearer " + os.environ["OPENROUTER_API_KEY"], "content-type": "application/json"},
-             {"model": mid, "max_tokens": 12000, "temperature": 0, "messages": [{"role": "user", "content": prompt}]})
+             {"model": mid, "max_tokens": 32000, "temperature": 0, "reasoning": {"enabled": False}, "messages": [{"role": "user", "content": prompt}]})
     if "error" in d: return {"error": str(d["error"])}
     if "choices" not in d: return {"error": json.dumps(d)[:300]}
     return {"text": d["choices"][0]["message"].get("content") or "", "tin": d["usage"]["prompt_tokens"], "tout": d["usage"]["completion_tokens"]}
 def job(args):
     model, pid = args
-    path = f"{HERE}/out/{model}__{pid}.json"
+    path = f"{HERE}/{OUT}/{model}__{pid}.json"
     if os.path.exists(path) and "error" not in json.load(open(path)): return model, pid, "cached"
     r = call(model, pid); r["model"] = model; r["paper"] = pid
     if "tin" in r: r["cost_usd"] = (r["tin"] * MODELS[model][2] + r["tout"] * MODELS[model][3]) / 1e6
