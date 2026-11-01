@@ -1,0 +1,101 @@
+openalex_id,doi,title,abstract_source
+W4410374120,https://doi.org/10.1038/s44387-025-00003-z,PRefLexOR: preference-based recursive language modeling for exploratory optimization of reasoning and agentic thinking,openalex
+W7171988415,https://doi.org/10.65713/ijaraiv14i1226,ARTIFICIAL INTELLIGENCE–ENABLED COMPUTATIONAL PATHOLOGY: FOUNDATION MODELS FOR NEXT-GENERATION PRECISION CANCER DIAGNOSTICS,openalex
+W7143348836,https://doi.org/10.1007/978-981-95-8414-7_26,LinkUIE: Entity Linking Adapter for Universal Information Extraction,none
+W7223534099,,Designing an Intelligent Healthcare Data Interoperability Framework Using SAP Business Technology Platform and Artificial Intelligence,openalex
+W7165122516,https://doi.org/10.3389/fpls.2026.1802748,A condition-aware retrieval-augmented decision support framework for tomato cultivation management,openalex
+W7140318132,https://doi.org/10.2139/ssrn.6427654,Sources for Artificial Intelligence Matter: Guideline restricted Artificial Intelligence tools improve Model Performance in Gynecologic Oncology,crossref
+W4412888283,https://doi.org/10.18653/v1/2025.findings-acl.689,PECAN: LLM-Guided Dynamic Progress Control with Attention-Guided Hierarchical Weighted Graph for Long-Document QA,openalex
+W4401662125,https://doi.org/10.48550/arxiv.2407.11638,A Comprehensive Evaluation of Large Language Models on Temporal Event Forecasting,openalex
+W7203965281,https://doi.org/10.1007/s10044-026-01753-5,Efficient and reliable multimodal retrieval-augmented question answering via greedy leave-one-out consistency pruning,none
+W4405470024,https://doi.org/10.48550/arxiv.2412.11536,Let your LLM generate a few tokens and you will reduce the need for retrieval,openalex
+W4400065069,https://doi.org/10.48550/arxiv.2406.17553,Retrieval-Augmented Code Generation for Situated Action Generation: A Case Study on Minecraft,openalex
+W7164814878,https://doi.org/10.1007/978-3-032-28819-6_38,Structured LLM-Generated Clinical Discharge Summaries for Nordic Healthcare Digitalization and Wireless Health Integration,openalex
+W4408665284,https://doi.org/10.1016/j.eswa.2025.127306,Retrieval-Augmented Generation-aided causal identification of aviation accidents: A large language model methodology,none
+W7154589277,https://doi.org/10.1109/icvadv67766.2026.11470404,"Transforming Information Retrieval with AI: Semantic, Neural, and Multimodal Approaches",openalex
+W7214536222,https://doi.org/10.5281/zenodo.22991274,AI Sovereignty and Public Sector Resilience: An Anatomical and Philosophical Review of the Governance-Aware Retriever Framework (Vol-I),openalex
+W4410291789,https://doi.org/10.1016/j.eswa.2025.128136,FinQuaXBot: enhancing trust and security in personalized investment and tax forecasting using homomorphic encryption and meta-reinforcement learning with explainability,none
+W7131101667,https://doi.org/10.1109/icaic67076.2026.11395791,CityCopilot-X: A Real-Time Explainability Panel for Retrieval-Augmented Generation (RAG),openalex
+W7134246426,https://doi.org/10.21606/drslxd.2025.171,Exploring the Use of GenAI Feedback during Design Projects,openalex
+W4411133698,https://doi.org/10.18690/um.fov.4.2025.17,Advanced RAG-LLM Prototype AI on PubMed for Cardiac Health,openalex
+W7162290388,https://doi.org/10.1016/j.jpi.2026.100618,Retrieval augmented generation powered pathology foundation models for clinically driven cytology AI,none
+W7134972085,https://doi.org/10.2139/ssrn.6214158,Beyond Deterministic Fallacies: Operationalizing Epistemic Humility and Multi-Layered Risk Mapping in AI-Assisted Jurisprudence,crossref
+W4415955469,https://doi.org/10.48550/arxiv.2510.16645,Unleashing Diverse Thinking Modes in LLMs through Multi-Agent Collaboration,openalex
+W7147726739,https://doi.org/10.13140/rg.2.2.24306.67521,Benchmarking of Open-Source Components Used in Retrieval-Augmented Generation (RAG),none
+W4416239006,https://doi.org/10.48550/arxiv.2511.10375,TruthfulRAG: Resolving Factual-level Conflicts in Retrieval-Augmented Generation with Knowledge Graphs,openalex
+W7223122669,https://doi.org/10.65521/ijasret.v10i1.4081,Agent-Enabled Reliable Augmented Generation System for Medical Research Summarization,openalex
+W7104374156,https://doi.org/10.5281/zenodo.17549895,AI-Driven Email Automation System,openalex
+W7125771030,https://doi.org/10.48550/arxiv.2601.17002,RAM-SD: Retrieval-Augmented Multi-agent framework for Sarcasm Detection,openalex
+W7161683657,https://doi.org/10.48550/arxiv.2605.17301,ConflictRAG: Detecting and Resolving Knowledge Conflicts in Retrieval Augmented Generation,openalex
+W4405253854,https://doi.org/10.1145/3770854.3783949,ENCO: Deploying Production-Scale Engineering Copilots,openalex
+W4391272538,https://doi.org/10.48550/arxiv.2401.14021,Accelerating Retrieval-Augmented Language Model Serving with Speculation,openalex
+W7166516841,https://doi.org/10.1007/978-981-92-1926-1_34,Melodic Agent: A Generative Music Recommendation Framework with Large Language Models,none
+W4414572881,https://doi.org/10.1007/978-3-032-06164-5_22,A Next-Gen Agentic AI e-Service with Augmented Reality for Real-Time Timber Properties Assessment,none
+W7204172988,https://doi.org/10.1117/12.3122963,SE-RAG: structured experience retrieval-augmented generation for non-deterministic logistics dispatch,none
+W4416035754,https://doi.org/10.18653/v1/2025.emnlp-main.1151,MS-RAG: Simple and Effective Multi-Semantic Retrieval-Augmented Generation,openalex
+W7221351613,https://doi.org/10.83303/istam.2026.1253250,The Evolution of RAG (Retrieval-Augmented Generation) Systems From Semantic Search to Agentic Architectures and Automated Evaluation,none
+W7117715382,https://doi.org/10.1109/itechsecom64750.2025.11307469,A RAG-Based Approach for Knowledge Retrieval and Question Answering on Diabetic Foot Ulcers Using LLMs,openalex
+W4417326939,https://doi.org/10.48550/arxiv.2510.21440,Redefining Retrieval Evaluation in the Era of LLMs,openalex
+W4400207888,https://doi.org/10.1007/978-3-031-64312-5_8,Personalized Pedagogy Through a LLM-Based Recommender System,none
+W7162496807,https://doi.org/10.1109/wiecon-ece69386.2025.11526129,Enhancing Accessibility in Retail Banking: A Voice-Enabled RAG Framework with Performance Evaluation,openalex
+W4404057193,https://doi.org/10.1109/emsoft60242.2024.00006,Work-in-Progress: On-device Retrieval Augmented Generation with Knowledge Graphs for Personalized Large Language Models,openalex
+W7160848298,https://doi.org/10.5281/zenodo.20126273,Closing the Definition Dependency Gap: Pre-Embedding Definition Injection for Legal Contract Retrieval,openalex
+W7153862476,https://doi.org/10.48175/ijarsct-33228,Government Schemes Recommendation System API With Bilanguage Chatbot Using RAG Vector Search,openalex
+W4407247615,https://doi.org/10.48550/arxiv.2502.04259,Cognitive AI framework 2.0: advances in the simulation of human thought,openalex
+W4408488261,https://doi.org/10.31127/tuje.1624773,Improving LLM Reliability with RAG in Religious Question-Answering: MufassirQAS,openalex
+W4415160671,https://doi.org/10.48550/arxiv.2504.10320,SlowFastVAD: Video Anomaly Detection via Integrating Simple Detector and RAG-Enhanced Vision-Language Model,openalex
+W7221599844,https://doi.org/10.22020/jol-45.2.3,LARGE LANGUAGE MODEL AGENTS FOR BIOMEDICAL RESEARCH AND DRUG DISCOVERY: FROM LITERATURE MINING TO HYPOTHESIS GENERATION,openalex
+W7131828724,https://doi.org/10.1109/mnet.2026.3663005,LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT,openalex
+W7118003214,https://doi.org/10.1007/978-3-032-13977-1_31,Exploring Accessible Focus Groups with Cognitive Persona Generation and AI Agents,none
+W4414946779,https://doi.org/10.48550/arxiv.2510.04536,3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG,openalex
+W7154833580,https://doi.org/10.47738/jads.v7i2.1187,A Hybrid Fuzzy-LLM Framework for Difficulty Estimation of Math Word Problems: A Data-Driven Human-in-the-Loop Study,openalex
+W4417301603,https://doi.org/10.1145/3770855.3818119,Uncovering Competing Poisoning Attacks in Retrieval-Augmented Generation,openalex
+W7125636842,https://doi.org/10.1109/iciteics64870.2025.11340965,Enhancing Medical Chatbots with RAG-Based Retrieval on Fine-Tuned DeepSeek Models,none
+W4415213783,https://doi.org/10.20944/preprints202510.1024.v1,Reasoning in Large Language Models: A Survey,openalex
+W7204979077,,Overview of the International Workshop on Definition and Term Extraction Challenge (DETECH) 2026,openalex
+W7211912847,https://doi.org/10.54254/2755-2721/2026.ast36546,Application of Knowledge Graph-Based GraphRAG in Intelligent Question Answering Systems,openalex
+W7154138155,https://doi.org/10.5281/zenodo.19555576,Pharmacodynamics of Context: How Wave-Resonant Retrieval Amplifies Bias in Skewed Memory Distributions,openalex
+W7167345040,https://doi.org/10.5281/zenodo.21195676,HuntForge – AI-Powered Threat Hunting,openalex
+W7171978637,https://doi.org/10.5281/zenodo.21725504,PrefixBench-H100: Artifact for IISWC 2026 submission #164,openalex
+W7163537349,https://doi.org/10.51583/ijltemas.2026.150500100,Floatchat RAG: An AI-Powered Conversational System for Argo Oceanographic Data Exploration Using Retrieval-Augmented Generation,openalex
+W7167943569,https://doi.org/10.5281/zenodo.21301499,Enrichissement automatique d'une ontologie cardiovasculaire à partir de textes de recommandations cliniques via LLM et RAG,openalex
+W7167475026,https://doi.org/10.3390/jcm15135253,Retrieval-Augmented Large Language Model for Angiographic Prediction of Coronary Physiology,openalex
+W7114773946,https://doi.org/10.5281/zenodo.17875107,Enterprise IntelliScope: A Cloud Native Cognitive Reliability Framework for AI Driven Incident Management,openalex
+W7130571087,https://doi.org/10.1109/icec2nt65402.2025.11380122,Advancing NLIDB Systems with T5-RAG: An Encoder-Decoder Approach to SQL Query Generation,openalex
+W7163079916,https://doi.org/10.1109/cai68641.2026.11536256,Retrieval-Augmented AI Feedback to Support Metacognition and Accessible Feedback in STEM Education,openalex
+W7213437705,https://doi.org/10.1109/iccitx70146.2026.11679945,Bridging the Menopause Information Gap: A Peer-Reviewed Multimodal RAG Framework with Hybrid Retrieval,none
+W7166841932,https://doi.org/10.18653/v1/2026.acl-long.64,RAM-SD: Retrieval-Augmented Multi-agent framework for Sarcasm Detection,openalex
+W7223186658,https://doi.org/10.1007/s11227-026-08944-1,MACRA: a training-free multi-agent framework for reliable and cost-aware clinical summarization,none
+W7170275858,https://doi.org/10.2139/ssrn.7145318,Implementing Self-Discover Reasoning for Trustworthy Medical Question Answering A Restricted-Retrieval Reasoning System (MedSAFE) for Reducing Hallucination in Clinical Question Answering,crossref
+W7168339297,https://doi.org/10.1145/3805712.3809702,SRAG: A Lightweight and Specialized Retrieval-augmented Generation System at the Edge,openalex
+W7155485724,https://doi.org/10.1109/icecco67619.2026.11488814,The Development of Information Retrieval Model for Hadith Data from Knowledge Graph,openalex
+W7223291187,https://doi.org/10.5281/zenodo.23588626,Comparative Analysis of an Intelligent Legal Query System Using Multi-Agent Graph RAG and Large Language Models,openalex
+W4408514413,https://doi.org/10.1016/j.mtcomm.2025.112186,Towards an automated workflow in materials science for combining multi-modal simulation and experimental information using data mining and large language models,openalex
+W3211582110,https://doi.org/10.48550/arxiv.2104.07567,Retrieval Augmentation Reduces Hallucination in Conversation,openalex
+W4407686243,https://doi.org/10.48550/arxiv.2502.10881,CiteCheck: Towards Accurate Citation Faithfulness Detection,openalex
+W4416248109,https://doi.org/10.48550/arxiv.2510.19644,CoRoVA: Compressed Representations for Vector-Augmented Code Completion,openalex
+W4407949990,https://doi.org/10.1109/fie61694.2024.10892994,From Questions to Insightful Answers: Building an Informed Chatbot for University Resources,openalex
+W4405714824,https://doi.org/10.48550/arxiv.2412.15540,MRAG: A Modular Retrieval Framework for Time-Sensitive Question Answering,openalex
+W7118018374,https://doi.org/10.1109/iciibms66230.2025.11316716,Integrating Retrieval-Augmented Generation and Large Language Models for Financial Question Answering,openalex
+W7133315871,https://doi.org/10.1109/tmm.2026.3742640,M$^{2}$: Dual-Memory Augmentation for Long-Horizon Web Agents via Trajectory Summarization and Insight Retrieval,openalex
+W7131658876,https://doi.org/10.6084/m9.figshare.31424888,CRSA-1: Compositional Runtime Safety Attestation Protocol for Multi-Principal AI Systems,openalex
+W4415074915,https://doi.org/10.1016/j.aej.2025.09.070,L3D-RAG: Leveraging LLaMA 3.1 and DeepSeek with Retrieval-Augmented Generation (RAG) for advanced Reddit community analysis,openalex
+W4400611228,https://doi.org/10.48550/arxiv.2407.07913,CaseGPT: a case reasoning framework based on language models and retrieval-augmented generation,openalex
+W4411343050,https://doi.org/10.1016/j.procir.2025.02.134,Advancing Automotive Production: An LLM-based Impact Analysis for Software Updates,openalex
+W7219709173,https://doi.org/10.260396/ts19qa42,ANALISIS KOMPARATIF EFEKTIVITAS RULE-BASED CHATBOT DAN GENERATIVE AI CHATBOT DALAM MENDUKUNG LAYANAN AKADEMIK BERBASIS SMART CAMPUS,openalex
+W7162786277,https://doi.org/10.1145/3770855.3817630,Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation,openalex
+W4416233894,https://doi.org/10.1109/cipae66821.2025.00070,A Survey on RAG-Based Multimodal Embedding Techniques,openalex
+W4407122340,https://doi.org/10.17700/jai.2024.15.2.733,OpenSource alternatives of Generative Artifical Intelligence for SME’s,openalex
+W4416863426,https://doi.org/10.1002/ksa.70207,Retrieval‐augmented ChatGPT‐4o improves accuracy but reduces readability in hip arthroscopy patient education,openalex
+W7166761632,https://doi.org/10.21203/rs.3.rs-10120163/v1,"AI-Enabled Public Health Agent for SupportingFrontline Healthcare Workers in Primary CareSettings: Design, Evaluation, and Decision Support",openalex
+W4407308215,https://doi.org/10.48550/arxiv.2502.04356,"Open Foundation Models in Healthcare: Challenges, Paradoxes, and Opportunities with GenAI Driven Personalized Prescription",openalex
+W4412945027,https://doi.org/10.18653/v1/2025.acl-long.806,RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning Based on Emotional Information,openalex
+W7116769154,https://doi.org/10.2139/ssrn.5946498,Architectural Fusion for Robust Retrieval-Augmented Generation: A Comparative Framework,none
+W4410576482,https://doi.org/10.1007/978-981-95-7394-3_28,DO-RAG: A Domain-Specific QA Framework Using Knowledge Graph-Enhanced Retrieval-Augmented Generation,none
+W7133660638,https://doi.org/10.1109/prai67447.2025.11412448,An Optimization Method for LLM-Based Retrieval-Augmented Generation System on OpenWebUI,openalex
+W7168547015,https://doi.org/10.12972/jdfr.2024.1.1.4,A Conversational AI Agent System Based on Large Language Models and Retrieval-Augmented Generation to Support Investigation,openalex
+W7221049856,https://doi.org/10.1145/3843775.3844545,Traceable RAG for Legacy COBOL Comprehension: Integrating Architectural and Semantic Analysis,openalex
+W7140317152,https://doi.org/10.5281/zenodo.19221390,A Retrieval-Augmented Multi-Agent Framework for Reducing Hallucinations in Large Language Models for Research Assistance,openalex
+W4415777323,https://doi.org/10.2118/229586-ms,Realizing the Need for Agentic AI for Subsurface Data and Workflows,openalex
+W7162786230,https://doi.org/10.5753/cibse.2026.42466,Automated testing framework to evaluate multi-agent chat assistants,openalex
+W4415378741,https://doi.org/10.5753/sbbd.2025.247297,Training-Free Hybrid Evidence Retrieval for Question Answering: Dynamic Fusion of Knowledge-Graph Triples and Dense Text Embeddings,openalex
