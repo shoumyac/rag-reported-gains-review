@@ -2,7 +2,7 @@
 
 Project: Do reported gains in retrieval-augmented generation (RAG) survive scrutiny? A systematic review, meta-analysis and evaluation-validity audit.
 Authors: Anmita Das, Shoumya Chowdhury.
-Version 1.1, 1 November 2026 (version 1.0 is in the OSF registration; the changes are section 3A and are recorded as deviation D4 in the deviations log). Any later change is recorded in the deviations log with a date.
+Version 1.2, 1 November 2026 (version 1.0 is in the OSF registration; the changes are section 3A (deviation D4) and section 3B (deviation D5), recorded in the deviations log). Any later change is recorded in the deviations log with a date.
 
 ## 1. Who screens
 
@@ -34,6 +34,24 @@ Agreed by both authors on 1 November 2026 after the 300-record calibration pilot
 4. **Surveys.** EXCLUDE (E2) overviews and surveys, including those titled "architecture, techniques and evaluations".
 5. **Records with no abstract.** First try to recover the abstract (for example from Crossref or arXiv). If it cannot be recovered: a title that names RAG or retrieval-augmented generation gives MAYBE; a title that names a language-model system, agent, chatbot or assistant but not RAG or retrieval gives EXCLUDE (E1); a title about unrelated topics gives EXCLUDE (E1).
 6. **Multimodal (E9).** EXCLUDE (E9) when retrieval and generation work on images, audio, video or other non-text data and the abstract suggests no text-only RAG experiment. MAYBE when text-only and multimodal parts are both present or the abstract does not say. If the retrieval-augmented language-model part works on text and the abstract reports its results, INCLUDE even if other modules process images or sensor data.
+
+## 3B. Stage 1 clarifications (added in version 1.2, deviation D5)
+
+Agreed by both authors on 1 November 2026 after round 2 (100 records, kappa 0.63 between the authors, below the 0.70 target). Derived from the 22 records on which the authors differed (`experiments/screening_pilot/round2_reconciled_decisions_22.csv`). Where 3B is more specific than 3A, 3B applies.
+
+1. **Image, audio or video tasks (E9).** EXCLUDE (E9) when every task input requires an image, audio or video (for example image-pair change captioning or visual question answering) and there is no text-only task setting, even if the model retrieves from a text corpus. A text-based RAG knowledge base inside a code or text generation framework is INCLUDE even if auxiliary tools convert other data into text.
+2. **Multimodal with text.** MAYBE when a multimodal RAG system is tested on benchmarks that combine text and page images, or text queries with video, and the abstract does not say whether a text-only setting is tested. A work-in-progress paper that reports only a preliminary comparison is also MAYBE.
+3. **Design-only application papers (E2).** EXCLUDE (E2) when an application paper describes only a proposed platform or architecture and its intended benefits, and the abstract mentions no built artifact, test, dataset or evaluation. EXCLUDE (E2) an organisational pilot or lessons-learned report that mentions RAG only in the keywords and reports no experimental evaluation of a RAG system.
+4. **Built but no evaluation stated.** MAYBE when the abstract says a RAG framework or pipeline was built (including with a released demo or repository link), or claims general operational improvement, but does not mention an experiment, metric, test set or baseline.
+5. **"Experimentally illustrated" or qualitative evidence only.** MAYBE for a proof of concept that only says it illustrates the approach experimentally; for a deployed RAG tool evaluated only by small focus groups or satisfaction questionnaires; and for a multi-stage pipeline that reports numbers only for a non-RAG module and shows the RAG module only in qualitative case studies.
+6. **Evaluation stated without numbers.** INCLUDE when the abstract states that an experimental evaluation or comparison was run and names what improved (for example detection accuracy or response time), for a system that contains a RAG component, even if no numbers appear. INCLUDE when the abstract explicitly says that several language models or settings were compared within a RAG system, even if the comparison is described only in words.
+7. **RAG as part of an evaluated workflow.** INCLUDE when a RAG system is a component of an experimentally evaluated workflow with reported quantitative results, even if the study focuses on productivity or human-AI collaboration rather than the RAG architecture.
+8. **RAG only as background (E1).** EXCLUDE (E1) when RAG is mentioned only as background motivation for a non-retrieval method, only as planned future work, or only in passing as an existing strategy in a conceptual paper that reports no experiments on a RAG system. EXCLUDE (E1) a software architecture paper that mentions RAG only as an existing practice and demonstrates its framework on non-RAG exemplars.
+9. **Retrieval without generation (E1).** EXCLUDE (E1) a paper that evaluates only vector indexing, embedding quantization or similarity search, or only builds a retrieval benchmark and tests embedding retrieval, without a language model generating from the retrieved results.
+10. **Semi-parametric language models.** INCLUDE a language model that retrieves text spans or tokens from an external corpus at inference time to condition generation (for example nearest-neighbor decoding) and is experimentally compared with RAG baselines.
+11. **Surveys.** EXCLUDE (E2) when the abstract identifies the paper as a survey, review or taxonomy with no new experiments, even if the opening sentences describe an architecture in detail.
+
+Open point to check at full text: the page-image RAG paper D2-ScaleAgent (W7203727208) was set to MAYBE under rule 2, although its retrieved items are page images. If the full text shows no text-only setting, it becomes E9 at Stage 2.
 
 ## 4. Stage 2: full text
 
