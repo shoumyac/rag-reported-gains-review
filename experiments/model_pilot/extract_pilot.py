@@ -50,6 +50,20 @@ Return only a JSON list, no other text.
 
 PAPER TEXT:
 """
+PROMPT_V3 = """You are extracting data from one research paper about retrieval-augmented generation (RAG). Use only what the paper states. Never use memory or other papers.
+
+Task: copy the paper's main results table(s) into structured form. Main results table = the table(s) holding the proposed method's headline results on task benchmarks (at most two tables; ignore ablations, analyses, appendix, cost or speed tables).
+Return a JSON list with one object per table:
+ {"caption": short caption or title, "page": page number from the [PAGE n] marker, "columns": [one string per numeric column, in the printed order, in the form "Benchmark / metric" using the printed header words], "rows": [ {"label": printed row label (method or model name), "quote": exact one-line copy of the row from the text, "values": [one entry per column, in the same order, number exactly as printed, or null where the cell is empty, a dash or not applicable]} ]}
+Rules:
+- Include EVERY data row of the table, in order, including baselines, no-retrieval rows, and the authors' own rows. Skip pure section-heading rows that have no numbers.
+- quote: copy the line character by character (do not fix spacing or symbols). If the row spans two lines in the text, copy the line that holds the numbers.
+- values: one entry per column; keep the printed text of each number as a string (for example "54.9"). If a cell shows two numbers separated by a slash, keep it as printed in one string.
+- Never guess or complete a missing value.
+Return only the JSON list, no other text.
+
+PAPER TEXT:
+"""
 VERSION = os.environ.get("PILOT_VERSION", "v1")
 OUT = "out" if VERSION == "v1" else "out_" + VERSION
 os.makedirs(f"{HERE}/{OUT}", exist_ok=True)
@@ -70,7 +84,7 @@ def post(url, headers, body, tries=3):
     return {"error": err}
 def call(model, pid):
     prov, mid, pin, pout = MODELS[model]
-    prompt = (PROMPT if VERSION == "v1" else PROMPT_V2) + paper_text(pid)
+    prompt = {"v1": PROMPT, "v2": PROMPT_V2, "v3": PROMPT_V3}[VERSION] + paper_text(pid)
     if prov == "anthropic":
         d = post("https://api.anthropic.com/v1/messages", {"x-api-key": os.environ["ANTHROPIC_API_KEY"], "anthropic-version": "2023-06-01", "content-type": "application/json"},
                  {"model": mid, "max_tokens": 16000, "messages": [{"role": "user", "content": prompt}]})

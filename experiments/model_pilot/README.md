@@ -50,3 +50,24 @@ Agreement between the two models: they filled the same slot (same method cell an
 Why they differ: almost always baseline-row ambiguity, not misread numbers. Examples: "Top 5 documents" versus "Top 1 document" as the vanilla RAG row (RECOMP), Llama2 7B with retrieval versus Alpaca 7B (Self-RAG), different generator sizes as the no-retrieval row. Both models took the numbers correctly from the rows they chose.
 
 Proposed next step (not yet done): extract the whole main results table verbatim (every row and column, one-line quotes) so the models must agree on cell values, then label row types (no retrieval, vanilla RAG, prior method) in a separate step that humans check, and build comparisons by script.
+
+## Round 3: table-first extraction (deviation D3)
+
+The model copies the whole main results table verbatim (every row, one-line quote per row, values per column). Comparisons are then built by script and row types are labelled in a separate, human-checked step. Prompt `PROMPT_V3`, run with `PILOT_VERSION=v3`, outputs in `out_v3/`, numbers from `python3 evaluate_v3.py <modelA> <modelB>`. Cost of round 3: about USD 0.25 for five models on ten papers.
+
+Compared with Claude Haiku 5.5 (187 rows, 1,196 cells; all quotes found; every row has the right number of values):
+
+| Second model | Row quote found | Value count = column count | Rows extracted by both | Same numbers on shared rows | Cost, 10 papers |
+|---|---|---|---|---|---|
+| Gemma 4 31B | 95.5% | 100% | 83.8% of union | 100% (176 rows, 1,214 numbers) | about USD 0.03 |
+| Qwen3 235B | 99.0% | 92.7% | 81.3% of union | 100% (170 rows, 1,179 numbers) | about USD 0.03 |
+| DeepSeek V4 Flash | 94.8% | 22.2% | 75.8% of union | 97.5% of rows, 99.3% of numbers (the 4 differences are a section sign read as a number) | USD 0.02 |
+| GPT-OSS 120B | not run: the endpoint forces hidden reasoning and the run failed | | | | |
+
+Reading the table:
+- When two models extract the same table row, they agree on the numbers 97.5% to 100% of the time, above the registered 95% target. The task is now easy for models.
+- The remaining disagreement is which table counts as "main" and how many rows are extracted (coverage 76% to 84% of the union). In this pilot it comes mostly from two papers with several large tables (In-Context RALM, RankRAG).
+- DeepSeek often splits slash cells or copies model-size labels into value slots, so its values do not line up with column headers (22% aligned). It is not suitable for table extraction in this form.
+- Quote validity and number agreement say nothing about whether both models share the same mistake. The registered human verification of the primary values is still needed.
+
+Proposed setup for extraction: Claude Haiku 5.5 plus Gemma 4 31B, with Qwen3 235B as tie-breaker in place of Sonnet; a human confirms the list of main tables once per paper; the union of rows from both models is kept, and rows seen by only one model are verified by a human.

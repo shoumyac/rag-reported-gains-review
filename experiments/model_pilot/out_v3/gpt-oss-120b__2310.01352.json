@@ -1,0 +1,1 @@
+{"error": "<HTTPError 400: 'Bad Request'> {\"error\":{\"message\":\"Reasoning is mandatory for this endpoint and cannot be disabled.\",\"code\":400,\"metadata\":{\"provider_name\":null}}}", "model": "gpt-oss-120b", "paper": "2310.01352"}

@@ -69,3 +69,7 @@ Added before extraction started, after the model pilot (`experiments/model_pilot
 1. Use the main results table(s): the table(s) holding the proposed method's headline results on task benchmarks, at most two. Ignore ablations, analyses, appendices, cost or speed tables, and metrics that are not task quality (for example citation precision, latency, number of steps).
 2. For each benchmark-and-metric column and the proposed method's main row (the first row marked as the authors' own), extract one comparison against the no-retrieval row and one against the vanilla RAG row, each closest in generator to the proposed method. If a row does not exist, extract nothing for it.
 3. Every value carries a one-line exact quote of the table row it came from.
+
+### Update (1 November 2026, deviation D3): table-first extraction
+
+The comparison rule above is replaced for the automatic stage. Models copy every row of the confirmed main results table(s) with a one-line exact quote and the value in each column. Row types are labelled in a separate step and checked by a human. Comparisons (proposed method versus no-retrieval row, versus vanilla RAG row, versus prior-method rows) are then built by script from those rows, within the same column. A human confirms which tables are the main results tables for each paper.
